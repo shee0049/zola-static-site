@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block title %}{{ section.title }} — {{ config.title }}{% endblock title %}
+
+{% block content %}
+  <article class="reports-index">
+    <h1>{{ section.title }}</h1>
+    {{ section.content | safe }}
+
+    {% set topics = section.subsections %}
+    {% if topics %}
+      {% for topic_path in topics %}
+        {% set topic = get_section(path=topic_path) %}
+        <section class="topic-block">
+          <h2><a href="{{ topic.permalink }}">{{ topic.title }}</a></h2>
+          {% if topic.pages %}
+            <ul class="report-list">
+              {% for report in topic.pages %}
+                <li>
+                  <a href="{{ report.permalink }}">{{ report.title }}</a>
+                  {% if report.description %}
+                    <span class="report-desc">{{ report.description }}</span>
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            <p class="muted">No reports yet in this topic.</p>
+          {% endif %}
+        </section>
+      {% endfor %}
+    {% else %}
+      <p class="muted">No reports yet. They'll appear here once added.</p>
+    {% endif %}
+  </article>
+{% endblock content %}

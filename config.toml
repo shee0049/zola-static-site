@@ -1,0 +1,33 @@
+# Zola static site configuration
+# Docs: https://www.getzola.org/documentation/getting-started/configuration/
+
+# The base URL of the site; change this to your actual domain before deploying.
+base_url = "http://127.0.0.1:1111"
+
+# The site title, used in <title> and shown in templates via config.title.
+title = "My Zola Site"
+
+# Optional short site description (metadata).
+description = "A basic static site built with Zola."
+
+# Default language for the site.
+default_language = "en"
+
+# --- Build options --------------------------------------------------------
+
+# Build search index (requires the search feature in a template).
+build_search_index = false
+
+# --- Taxonomies -----------------------------------------------------------
+# Uncomment to enable tags/categories sections if you add them later.
+# [taxonomies]
+# tag = { feed = true }
+
+# --- Link checkers --------------------------------------------------------
+# Set to true only after the site goes live with a real base_url, otherwise
+# link checker may report false positives for development.
+
+# --- Extra (site-wide variables readable as config.extra.* in templates) --
+[extra]
+# Shown in the site footer.
+footer_text = "Built with Zola — the Rust-powered static site generator."

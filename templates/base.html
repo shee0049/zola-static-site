@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ lang | default(value="en") }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+  <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#2e3440">
+  <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="site-nav">
+      <a class="brand" href="{{ get_url(path='/') }}">{{ config.title }}</a>
+      <span class="nav-links">
+        <a href="{{ get_url(path='/') }}">Home</a>
+        <a href="{{ get_url(path='/about/') }}">About</a>
+        <a href="{{ get_url(path='/reports/') }}">Reports</a>
+      </span>
+    </nav>
+  </header>
+
+  <main class="site-main">
+    {% block content %}{% endblock content %}
+  </main>
+
+  <footer class="site-footer">
+    <p>{{ config.extra.footer_text }}</p>
+  </footer>
+</body>
+</html>

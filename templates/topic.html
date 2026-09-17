@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}{{ section.title }} — {{ config.title }}{% endblock title %}
+
+{% block content %}
+  <article class="topic-index">
+    <p class="breadcrumb"><a href="{{ get_url(path='/reports/') }}">Reports</a> / {{ section.title }}</p>
+    <h1>{{ section.title }}</h1>
+    {{ section.content | safe }}
+
+    {% if section.pages %}
+      <ul class="report-list">
+        {% for report in section.pages %}
+          <li>
+            <a href="{{ report.permalink }}">{{ report.title }}</a>
+            {% if report.description %}
+              <span class="report-desc">{{ report.description }}</span>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p class="muted">No reports yet in this topic.</p>
+    {% endif %}
+  </article>
+{% endblock content %}
