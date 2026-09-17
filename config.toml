@@ -1,8 +1,9 @@
 # Zola static site configuration
 # Docs: https://www.getzola.org/documentation/getting-started/configuration/
 
-# The base URL of the site; change this to your actual domain before deploying.
-base_url = "http://127.0.0.1:1111"
+# The base URL of the site (production deployment path for GitHub Pages).
+# Local dev preview: run `zola serve --base-url http://127.0.0.1:1111` to override.
+base_url = "https://shee0049.github.io/zola-static-site/"
 
 # The site title, used in <title> and shown in templates via config.title.
 title = "My Zola Site"
