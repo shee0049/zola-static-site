@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Linux News Roundup (September 18, 2026) — My Zola Site</title>
+  <meta name="description" content="GNOME 51 lands, Ubuntu 26.10 reaches its final snapshot, Firefox 157 previews the Nova design, and more from the week of September 14–18, 2026.">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#2e3440">
+  <link rel="stylesheet" href="https://shee0049.github.io/zola-static-site/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="site-nav">
+      <a class="brand" href="https://shee0049.github.io/zola-static-site">My Zola Site</a>
+      <span class="nav-links">
+        <a href="https://shee0049.github.io/zola-static-site">Home</a>
+        <a href="https://shee0049.github.io/zola-static-site/about">About</a>
+        <a href="https://shee0049.github.io/zola-static-site/reports">Reports</a>
+      </span>
+    </nav>
+  </header>
+
+  <main class="site-main">
+    
+  <article class="report">
+    <p class="breadcrumb">
+      <a href="https://shee0049.github.io/zola-static-site/reports">Reports</a>
+       / <a href="https://shee0049.github.io/zola-static-site/reports/linux">linux</a>
+    </p>
+    <h1 id="linux-news-roundup-september-18-2026">Linux News Roundup (September 18, 2026)</h1>
+<p><strong>Topic:</strong> Linux News
+<strong>Report generated:</strong> 2026-09-18T18:00 (local) / 2026-09-18T23:00Z (UTC)</p>
+<hr />
+<h2 id="executive-summary">Executive Summary</h2>
+<p>The week of September 14–18, 2026 was headlined by the official release of <strong>GNOME 51 “A Coruña”</strong>, the first major GNOME desktop release since 2.34 and a showcase feature of the Fedora 45 Beta that also landed this week. <strong>Ubuntu 26.10 “Stonking Stingray”</strong> shipped its fourth and final development snapshot ahead of an October 15 final, and Mozilla previewed a brand-new <strong>“Nova” design</strong> in the Firefox 157 beta. Elsewhere, <strong>Raspberry Pi OS</strong> gained dock support, NVIDIA introduced a native Rust path for CUDA GPU kernels, <strong>Wine 11.18</strong> and <strong>MariaDB 13.0</strong> shipped, and <strong>The Document Foundation</strong> set a first-week download record while firmly declaring that “no AI is a feature.”</p>
+<hr />
+<h2 id="1-gnome-51-a-coruna-officially-released">1. GNOME 51 “A Coruña” Officially Released</h2>
+<p>The GNOME Project released <strong>GNOME 51</strong> on September 16 as the latest stable desktop environment. Notable highlights include:</p>
+<ul>
+<li><strong>Monitor brightness</strong> can now be saved and restored.</li>
+<li>Support for <strong>elogind</strong> as a libsystemd provider and a new <strong>QR-code generation API</strong> (exposed via the input capture portal with clipboard integration).</li>
+<li>Initial support for the <strong>“reduced-motion”</strong> accessibility setting, web login with a unified auth mechanism, and SVG-based cursor implementations.</li>
+<li>Support for the <strong>ext-background-effect-v1 blur Wayland protocol</strong> and external cursor implementations.</li>
+<li><strong>Nautilus (Files) 51</strong> adds a count badge when dragging multiple files and faster view reloading.</li>
+<li><strong>Control Center (Settings) 51</strong> gains Auto Rotate for accelerometer-equipped devices, DNS search in Network, fingerprint management in Users, and a removal of legacy WEP support.</li>
+<li><strong>GNOME Remote Desktop 51</strong> enables hardware acceleration for AMD GPUs via the AMDGPU driver; <strong>GNOME Session 51</strong> now uses oo7-portal for the Secret portal.</li>
+<li>GDM 51 adds settings for fallback session selection and headless-only systems.</li>
+</ul>
+<p>The project has already set the next milestone: <strong>GNOME 52 “Terengganu”</strong> is planned for March 2027.</p>
+<hr />
+<h2 id="2-fedora-45-beta-with-gnome-51">2. Fedora 45 Beta with GNOME 51</h2>
+<p>Fedora Linux <strong>45 Beta</strong> became available for public testing on September 15. It ships the <strong>Linux 7.2 kernel</strong>, the flagship Workstation edition featuring GNOME 51, and a KDE Plasma edition carrying Plasma 6.7. Beyond new desktops, Fedora 45 emphasizes fully reproducible package builds, kmscon as the default virtual-terminal console, RPM signature checking on by default, and a new WebUI installer for Fedora Atomic images. The final release is expected in late October or early November; this is a pre-release build intended for testing.</p>
+<hr />
+<h2 id="3-ubuntu-26-10-stonking-stingray-final-snapshot">3. Ubuntu 26.10 “Stonking Stingray” Final Snapshot</h2>
+<p>Canonical released <strong>Ubuntu 26.10 Snapshot 4</strong> on September 17 — the fourth and final development milestone for the Stonking Stingray cycle, running the <strong>Linux 7.2 kernel</strong>. It previews several incoming features, including a new onboarding experience, on-device speech-to-text voice interaction, a package-agnostic App Center, and an improved driver-management experience. The <strong>beta is expected on September 24</strong>, and the <strong>final release on October 15, 2026</strong>, powered by Linux 7.3, Mesa 26.2, and the GNOME 51 desktop series. As with all snapshots, the images are for early adopters and developers, not production.</p>
+<hr />
+<h2 id="4-mozilla-firefox-156-formal-firefox-157-beta-nova">4. Mozilla: Firefox 156 Formal + Firefox 157 Beta “Nova”</h2>
+<p>Mozilla released <strong>Firefox 156</strong> earlier in the week (faster PDF viewer, reduced memory/CPU use for large JPEGs), and on September 15 unveiled <strong>Firefox 157</strong>, now in public beta, carrying a brand-new theme called <strong>Nova</strong>.</p>
+<ul>
+<li>Nova aims for a cleaner, faster, more adaptable interface, and restores a <strong>Compact</strong> spacing mode alongside Standard and Touch modes.</li>
+<li>Firefox 157 properly displays <strong>HDR videos encoded in 8-bit color formats</strong> as HDR, fixing dull, gray-looking videos.</li>
+<li>Improved <strong>audio/video synchronization</strong> on playback rate changes and a better-behaved <strong>Vertical Tabs sidebar</strong> in full-screen mode.</li>
+</ul>
+<p>Meanwhile, <strong>Mozilla Thunderbird 156</strong> (September 15) added custom OAuth support for POP3 along with assorted fixes.</p>
+<hr />
+<h2 id="5-raspberry-pi-os-brings-dock-support">5. Raspberry Pi OS Brings Dock Support</h2>
+<p>The Raspberry Pi Foundation published <strong>Raspberry Pi OS 2026-09-15</strong>, based on Debian 13 “Trixie” and powered by the Linux <strong>6.18.50 LTS</strong> kernel. The release adds <strong>dock support</strong> to the Wayland panel (wf-panel-pi) with new Icon Menu and Icon Tasklist plugins, plus a <strong>new screenshot tool</strong>, a monolithic PCManFM/libfm build, switchable Ejecter automounting, and support for <strong>labwc 0.20 / wlroots</strong>. It is available for all supported Pi models including Zero, Zero 2 W, and 400.</p>
+<hr />
+<h2 id="6-tooling-open-source-software">6. Tooling &amp; Open-Source Software</h2>
+<ul>
+<li><strong>NVIDIA introduces CUDA Rust</strong> (September 18): two tracks — <code>cuda-oxide</code> (SIMT model with a custom rustc code-generation backend through MIR → Pliron → LLVM IR → PTX) and <code>cutile-rs</code> (CUDA Tile model using tensor partitioning and Rust ownership for compile-time race rejection). Interop with CUDA C++/Python is planned.</li>
+<li><strong>Wine 11.18</strong> (September 18): expanded NTOSKRNL support for kernel drivers and C header compatibility fixes, 21 bug fixes including Assassin’s Creed Rogue, Super Meat Boy, and Star Wars: KOTOR, plus ARM64EC and Adobe Creative Cloud fixes.</li>
+<li><strong>MariaDB 13.0</strong> goes stable (September 18) with new SQL and InnoDB features.</li>
+<li><strong>Java 27</strong> (September 18) ships with G1 as the default garbage collector, Compact Object Headers, and TLS improvements.</li>
+<li><strong>VirtualBox 7.2.18</strong> (September 15): Linux 7.3 compilation fixes and RHEL 10.3 kernel support.</li>
+<li><strong>DXVK 3.1.1</strong> (September 15): fixes for Call of Duty: Ghosts, Rayman 3, and Skyrim SE.</li>
+<li><strong>PipeWire 1.6.9</strong> (September 17): improved Bluetooth, JACK, ALSA plugin, and Pulse server handling.</li>
+<li><strong>Rust Coreutils 0.12</strong> improves Ubuntu compatibility and GNU parity; <strong>Mojo 1.1</strong> opens its compiler to external contributions; <strong>Miracle WM 0.11</strong> (Wayland compositor) adds a new workspace overview mode.</li>
+</ul>
+<hr />
+<h2 id="7-libreoffice-26-8-download-record-no-ai-stance">7. LibreOffice 26.8 Download Record + “No AI” Stance</h2>
+<p>On September 18, The Document Foundation revealed that <strong>LibreOffice 26.8</strong> was downloaded <strong>1,031,162 times from the official page in its first week</strong> (excluding Linux distro repository installs), a record. A day later TDF published a post titled <em>“Yes, no AI is now a feature,”</em> explaining that no current AI integration meets its standards for default deployment — open interfaces (no single-vendor lock-in), OpenDocument preservation, no telemetry, and fully optional install. TDF says LibreOffice will keep shipping without built-in AI for now, while third-party extensions (e.g., Ollama/LM Studio) remain available.</p>
+<hr />
+<h2 id="8-other-distros-ecosystem">8. Other Distros &amp; Ecosystem</h2>
+<ul>
+<li><strong>Calibre 9.15</strong> (September 18) adds an AI-assisted “Create Your Own Adventure” storytelling mode.</li>
+<li><strong>HPLIP 3.26.6</strong> (September 17) adds support for newer HP printers.</li>
+<li><strong>Talos Enterprise Linux</strong> launched for Kubernetes infrastructure, and <strong>Calibre</strong>, <strong>PipeWire</strong>, and <strong>Mesa 26.2.3</strong> are among the packaged updates in downstream distro repos this week.</li>
+</ul>
+<hr />
+<h2 id="sources">Sources</h2>
+<ul>
+<li>9to5Linux — <em>GNOME 51 “A Coruña” Desktop Environment Officially Released, This Is What’s New</em> (September 16, 2026) — https://9to5linux.com/gnome-51-a-coruna-desktop-environment-officially-released-this-is-whats-new</li>
+<li>9to5Linux — <em>Fedora Linux 45 Beta Released with Linux 7.2, GNOME 51, and KDE Plasma 6.7</em> (September 15, 2026) — https://9to5linux.com/fedora-linux-45-beta-released-with-linux-7-2-gnome-51-and-kde-plasma-6-7</li>
+<li>9to5Linux — <em>Ubuntu 26.10 “Stonking Stingray” Snapshot 4 Is Out for Public Testing with Linux 7.2</em> (September 17, 2026) — https://9to5linux.com/ubuntu-26-10-stonking-stingray-snapshot-4-is-out-for-public-testing-with-linux-7-2</li>
+<li>9to5Linux — <em>Mozilla Firefox 157 Enters Public Beta Testing with Brand-New Nova Design</em> (September 15, 2026) — https://9to5linux.com/mozilla-firefox-157-enters-public-beta-testing-with-brand-new-nova-design</li>
+<li>9to5Linux — <em>Latest Raspberry Pi OS Release Brings Dock Support and New Screenshot Tool</em> (September 15, 2026) — https://9to5linux.com/latest-raspberry-pi-os-release-brings-dock-support-and-new-screenshot-tool</li>
+<li>9to5Linux — <em>Mozilla Thunderbird 156 Email Client Brings Custom OAuth Support for POP3</em> (September 15, 2026) — https://9to5linux.com/mozilla-thunderbird-156-email-client-brings-custom-oauth-support-for-pop3</li>
+<li>Linuxiac — <em>LibreOffice 26.8 Sets Download Record as TDF Says “No AI” Is a Feature</em> (September 18, 2026) — https://linuxiac.com/libreoffice-26-8-sets-download-record-as-tdf-says-no-ai-is-a-feature/</li>
+<li>Linuxiac — <em>NVIDIA Introduces CUDA Rust for Writing GPU Kernels</em> (September 18, 2026) — https://linuxiac.com/nvidia-introduces-cuda-rust-for-writing-gpu-kernels/</li>
+<li>Linuxiac — <em>Wine 11.18 Improves Windows Kernel Driver Support</em> (September 18, 2026) — https://linuxiac.com/wine-11-18-improves-windows-kernel-driver-support/</li>
+<li>Linuxiac — <em>MariaDB 13.0 Goes Stable with New SQL and InnoDB Features</em> (September 18, 2026) — https://linuxiac.com/mariadb-13-0-goes-stable-with-new-sql-and-innodb-features/</li>
+<li>Linuxiac — <em>Java 27 Released with G1 as the Default Garbage Collector</em> (September 18, 2026) — https://linuxiac.com/java-27-released-with-g1-as-the-default-garbage-collector/</li>
+<li>9to5Linux news feed and home page, plus Linuxiac news category (accessed September 18, 2026)</li>
+</ul>
+<hr />
+<p><em>Report compiled from publicly available web sources on 2026-09-18. Release dates, versions, and figures are as reported by the cited sources and may vary slightly by edition or region.</em></p>
+
+  </article>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Built with Zola — the Rust-powered static site generator.</p>
+  </footer>
+</body>
+</html>

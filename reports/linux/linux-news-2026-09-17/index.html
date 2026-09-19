@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Today&#39;s Linux News (September 17, 2026) — My Zola Site</title>
+  <meta name="description" content="A roundup of the latest Linux and open-source news from the week of September 14–17, 2026.">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#2e3440">
+  <link rel="stylesheet" href="https://shee0049.github.io/zola-static-site/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="site-nav">
+      <a class="brand" href="https://shee0049.github.io/zola-static-site">My Zola Site</a>
+      <span class="nav-links">
+        <a href="https://shee0049.github.io/zola-static-site">Home</a>
+        <a href="https://shee0049.github.io/zola-static-site/about">About</a>
+        <a href="https://shee0049.github.io/zola-static-site/reports">Reports</a>
+      </span>
+    </nav>
+  </header>
+
+  <main class="site-main">
+    
+  <article class="report">
+    <p class="breadcrumb">
+      <a href="https://shee0049.github.io/zola-static-site/reports">Reports</a>
+       / <a href="https://shee0049.github.io/zola-static-site/reports/linux">linux</a>
+    </p>
+    <h1 id="today-s-linux-news-september-17-2026">Today's Linux News (September 17, 2026)</h1>
+<p><strong>Topic:</strong> Linux News
+<strong>Report generated:</strong> 2026-09-17T20:57 (local) / 2026-09-18T00:57Z (UTC)</p>
+<hr />
+<h2 id="executive-summary">Executive Summary</h2>
+<p>The second full week of September 2026 was a busy one for Linux and the broader open-source community. The headline event is the <strong>Fedora Linux 45 Beta</strong>, which ships the Linux 7.2 kernel alongside the forthcoming <strong>GNOME 51</strong> desktop and KDE Plasma 6.7. <strong>Mozilla Firefox 156</strong> landed with a substantially faster built-in PDF viewer as the browser settles into a two-week release cadence. Around the ecosystem, <strong>KDE Plasma 6.8</strong> entered public beta (final due in October), <strong>COSMIC 1.8</strong> reached general availability, <strong>Debian 13.7</strong> and <strong>Ubuntu 24.04.5 LTS</strong> pushed out maintenance releases, and several hardware/platform milestones (Asahi Linux on Apple M3, NVIDIA's open Linux driver) continued to mature.</p>
+<hr />
+<h2 id="1-fedora-linux-45-beta-released-linux-7-2-gnome-51-kde-plasma-6-7">1. Fedora Linux 45 Beta Released (Linux 7.2, GNOME 51, KDE Plasma 6.7)</h2>
+<p>The Fedora Project shipped the <strong>Fedora Linux 45 Beta</strong> this week for public testing. Final release is expected in <strong>late October or early November 2026</strong>.</p>
+<ul>
+<li>Powered by the latest <strong>Linux 7.2 kernel series</strong>.</li>
+<li>Flagship <strong>Fedora Workstation</strong> edition ships the soon-to-be-released <strong>GNOME 51</strong>.</li>
+<li>The <strong>Fedora KDE Plasma</strong> edition carries <strong>Plasma 6.7</strong>.</li>
+</ul>
+<p>Notable changes in Fedora 45:</p>
+<ul>
+<li><strong>Fully reproducible package builds</strong>.</li>
+<li><strong>kmscon</strong> becomes the default virtual-terminal console.</li>
+<li>RPM signature checking is on by default (default package verification mode).</li>
+<li>Disk images for Fedora Atomic desktops are now built with the <strong>image-builder</strong> tool.</li>
+<li>A new <strong>WebUI installer</strong> on all Fedora Atomic ISO images, plus <strong>web-based remote installation</strong> for Atomic desktops.</li>
+<li><strong>systemd-oomd and zram swap by default</strong> on Fedora CoreOS.</li>
+<li>GRUB EFI support for confidential computing; PAM support in <code>chpasswd</code> and <code>newusers</code>; IPv6 support in NetworkManager.</li>
+<li>Repo configuration data relocating from <code>/etc</code> to <code>/usr</code>; default Secrets Service provider switching from KWallet/GNOME Keyring to <strong>oo7</strong>; <code>ptrace</code> restricted by default; vendor change disabled by default for DNF5.</li>
+</ul>
+<p><strong>Caveat:</strong> this is a pre-release, so it's for testing, not production.</p>
+<hr />
+<h2 id="2-mozilla-firefox-156-two-week-cadence-continues">2. Mozilla Firefox 156 (Two-Week Cadence Continues)</h2>
+<p>Mozilla released <strong>Firefox 156</strong> about two weeks after Firefox 155, as the project settles into a faster <strong>two-week release cycle</strong>.</p>
+<ul>
+<li>Built-in <strong>PDF viewer starts up to 45% faster</strong>.</li>
+<li>Reduced memory and CPU use when displaying <strong>large JPEG images</strong> scaled down to fit a page.</li>
+<li>Android improvements and multiple bug fixes across platforms.</li>
+<li>Available for Linux, macOS, and Windows.</li>
+</ul>
+<hr />
+<h2 id="3-kde-plasma-6-8-enters-public-beta">3. KDE Plasma 6.8 Enters Public Beta</h2>
+<p><strong>Plasma 6.8</strong> moved into <strong>public beta testing</strong> this week, with the final release slated for <strong>October 14, 2026</strong> — the window previously highlighted as the point where Plasma drops its X11 session.</p>
+<ul>
+<li>Continued KWin and Wayland bug-fix work landed in <strong>Plasma 6.7.5</strong>.</li>
+<li><strong>KDE Gear 26.08.1</strong> and <strong>KDE Frameworks 6.30</strong> also shipped, with improvements to Baloo (file indexer), KWallet, System Monitor, KIO, and image support.</li>
+<li>KDE's new <strong>Photos app</strong> was proposed as a future replacement for Gwenview.</li>
+</ul>
+<hr />
+<h2 id="4-cosmic-1-8-desktop-officially-released">4. COSMIC 1.8 Desktop Officially Released</h2>
+<p>System76's Rust-based <strong>COSMIC desktop reached 1.8</strong>, now generally available.</p>
+<ul>
+<li>Improved <strong>touchscreen support</strong>.</li>
+<li>Part of the ongoing maturation of the from-scratch desktop (own compositor, not a GNOME/KDE fork).</li>
+<li>Ships as the flagship desktop on <strong>Pop!_OS</strong>.</li>
+</ul>
+<hr />
+<h2 id="5-distro-maintenance-releases-debian-13-7-and-ubuntu-24-04-5-lts">5. Distro Maintenance Releases: Debian 13.7 and Ubuntu 24.04.5 LTS</h2>
+<p>Two important point releases arrived this week:</p>
+<ul>
+<li><strong>Debian 13.7 "Trixie"</strong> — 107 security updates and 106 bug fixes, mirrored across all Debian flavors (GNOME, KDE Plasma, Xfce, Cinnamon, LXQt, MATE, LXDE, and more).</li>
+<li><strong>Ubuntu 24.04.5 LTS</strong> — refresh with an updated <strong>HWE (Hardware Enablement) stack</strong>, bringing <strong>Linux 7.0</strong> and <strong>Mesa 26.2</strong> to the LTS line. Released across the full 24.04 family (Kubuntu, Xubuntu, Lubuntu, Ubuntu Budgie, Ubuntu Cinnamon, Ubuntu Unity, Ubuntu MATE, and others).</li>
+</ul>
+<p>Other distro activity: <strong>KaOS 2026.09</strong> (with Noctalia 5.1, Linux kernel 7.1, Mesa 26.2, and the Dinit init system), <strong>MocaccinoOS 26.09</strong> (x86-64-v3 optimized builds), and <strong>openSUSE's Agama 24 installer</strong> with improved storage, networking, and AutoYaST support.</p>
+<hr />
+<h2 id="6-linux-mint-new-native-apps-and-upstream-tooling">6. Linux Mint: New Native Apps and Upstream Tooling</h2>
+<ul>
+<li>Linux Mint developers introduced new <strong>EPUB reader</strong> and <strong>Calendar</strong> apps.</li>
+<li>The <strong>xApp project</strong> is expanding — Mint's apps can now be downloaded and used independently of a Mint release.</li>
+</ul>
+<hr />
+<h2 id="7-hardware-drivers-asahi-on-m3-nvidia-open-driver">7. Hardware &amp; Drivers: Asahi on M3, NVIDIA Open Driver</h2>
+<ul>
+<li><strong>Asahi Linux officially supports Apple M3 Macs</strong>.</li>
+<li><strong>NVIDIA 615.71 Linux driver</strong> adds <strong>Proton support for NVIDIA Reflex</strong> and improves support for Vulkan-native games.</li>
+<li><strong>Bottles</strong> pushes Windows app support further on ARM64 Linux.</li>
+</ul>
+<hr />
+<h2 id="8-other-notable-releases-projects">8. Other Notable Releases &amp; Projects</h2>
+<ul>
+<li><strong>OpenSSL 4.1</strong> alpha introduces DTLS 1.3, IKEv2 KDF, and GREASE support.</li>
+<li><strong>Linux kernel 7.2.5</strong> point release, alongside LTS updates <strong>6.18.51</strong> and <strong>6.12.109</strong> (plus later 7.2.6).</li>
+<li><strong>Jellyfin 12.0</strong> media server — faster database, modern UI.</li>
+<li><strong>GIMP 3.2.6</strong> with UX improvements and new rotation stylus dynamics input.</li>
+<li><strong>Shotwell 0.33</strong> — GTK4 port of the GNOME image viewer.</li>
+<li><strong>PipeWire 1.6.9</strong> with better resampling quality.</li>
+<li><strong>GStreamer 1.28.7</strong> — security and playback fixes, OpenCV 5 support.</li>
+<li>New <strong>Rust-based open-source CAD app</strong> ("Open CAD Studio") for Linux.</li>
+<li><strong>DietPi 10.7</strong> adds container support with network and ARMv8 VMs.</li>
+</ul>
+<hr />
+<h2 id="9-community-and-ecosystem">9. Community and Ecosystem</h2>
+<ul>
+<li><strong>Omarchy</strong> funding surged to <strong>$18.5M</strong> with a <strong>$3M pledge from DigitalOcean</strong>.</li>
+<li>Debian continues its generative-AI policy work (Project formalizes responsible use of generative AI).</li>
+<li>California's age attestation bill to <strong>exclude Linux and all open-source OSes</strong>.</li>
+<li>The Linux Foundation published its September 2026 newsletter with ecosystem highlights and upcoming events.</li>
+</ul>
+<hr />
+<h2 id="sources">Sources</h2>
+<ul>
+<li>9to5Linux — <em>Fedora Linux 45 Beta Released with Linux 7.2, GNOME 51, and KDE Plasma 6.7</em> (this week)</li>
+<li>9to5Linux — <em>9to5Linux Weekly Roundup: September 13th, 2026</em></li>
+<li>Linuxiac — <em>Mozilla Firefox 156 Released with Up to 45% Faster PDF Viewer</em></li>
+<li>Linuxiac — <em>Linuxiac Weekly Wrap-Up: Week 37, 2026 (September 7–13)</em></li>
+<li>Linuxiac — <em>Linux &amp; Open Source News</em> (category)</li>
+<li>Linux Foundation — <em>September 2026 Newsletter</em></li>
+<li>DesktopLinux/Desdelinux — <em>September 2026: This month's news coverage of the Linuxverse</em></li>
+</ul>
+<hr />
+<p><em>Report compiled from publicly available web sources on 2026-09-17. Release dates and feature sets are as reported by the cited sources and may vary slightly by edition or region.</em></p>
+
+  </article>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Built with Zola — the Rust-powered static site generator.</p>
+  </footer>
+</body>
+</html>

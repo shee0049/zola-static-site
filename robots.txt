@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://shee0049.github.io/zola-static-site/sitemap.xml
