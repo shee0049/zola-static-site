@@ -6,7 +6,7 @@
 base_url = "https://shee0049.github.io/zola-static-site/"
 
 # The site title, used in <title> and shown in templates via config.title.
-title = "My Zola Site"
+title = "shee0049"
 
 # Optional short site description (metadata).
 description = "A basic static site built with Zola."
