@@ -29,6 +29,14 @@ Prostitute
 Whores
 DITZ
 Lip Critic
+My Wife's an Angel
+Low Estate
+Sprain
+Drowse
+King Woman
+Ragana
+Kayo Dot
+Sannhet
 
 ### Post-punk / art-punk / post-rock
 Viagra Boys
@@ -37,7 +45,7 @@ DEADLETTER
 Squid
 Model/Actriz
 IDLES
-My Wife's an Angel
+Have a Nice Life
 
 ### Indie / acoustic / punk
 Front Porch Step
