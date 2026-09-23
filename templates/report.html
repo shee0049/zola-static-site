@@ -4,11 +4,42 @@
 {% block description %}{{ page.description | default(value=config.description) }}{% endblock description %}
 
 {% block content %}
-  <article class="report">
+  <article class="report report--{{ page.extra.topic | default(value='default') }}">
     <p class="breadcrumb">
       <a href="{{ get_url(path='/reports/') }}">Reports</a>
       {% if page.extra.topic %} / <a href="{{ get_url(path='/reports/' ~ page.extra.topic ~ '/') }}">{{ page.extra.topic }}</a>{% endif %}
     </p>
-    {{ page.content | safe }}
+
+    <div class="report-layout">
+      {% if page.toc %}
+        <details class="report-toc" open>
+          <summary>On this page</summary>
+          <nav>
+            <ul>
+              {% for h in page.toc %}
+                {% if h.level == 1 %}
+                  {% for section in h.children %}
+                    <li>
+                      <a href="{{ section.permalink | safe }}">{{ section.title }}</a>
+                      {% if section.children %}
+                        <ul>
+                          {% for sub in section.children %}
+                            <li><a href="{{ sub.permalink | safe }}">{{ sub.title }}</a></li>
+                          {% endfor %}
+                        </ul>
+                      {% endif %}
+                    </li>
+                  {% endfor %}
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </nav>
+        </details>
+      {% endif %}
+
+      <div class="report-body">
+        {{ page.content | safe }}
+      </div>
+    </div>
   </article>
 {% endblock content %}
