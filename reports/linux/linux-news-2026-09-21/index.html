@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Linux News Roundup (September 21, 2026) — shee0049</title>
+  <meta name="description" content="MX Linux 25.3 “Infinity” ships, Garuda Linux launches Garuda Nix, Peppermint OS begins shifting from X.Org to XLibre, GNU Wget 2.3 and Kitty 0.49 land, and more from the week of September 14–21, 2026.">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#2e3440">
+  <link rel="stylesheet" href="https://shee0049.github.io/zola-static-site/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="site-nav">
+      <a class="brand" href="https://shee0049.github.io/zola-static-site">shee0049</a>
+      <span class="nav-links">
+        <a href="https://shee0049.github.io/zola-static-site">Home</a>
+        <a href="https://shee0049.github.io/zola-static-site/reports">Reports</a>
+      </span>
+    </nav>
+  </header>
+
+  <main class="site-main">
+    
+  <article class="report report--linux">
+    <p class="breadcrumb">
+      <a href="https://shee0049.github.io/zola-static-site/reports">Reports</a>
+       / <a href="https://shee0049.github.io/zola-static-site/reports/linux">linux</a>
+    </p>
+
+    <div class="report-layout">
+      
+        <details class="report-toc" open>
+          <summary>On this page</summary>
+          <nav>
+            <ul>
+              
+                
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-09-21/#executive-summary">Executive Summary</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-09-21/#1-mx-linux-25-3-infinity">1. MX Linux 25.3 “Infinity”</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-09-21/#2-garuda-linux-launches-garuda-nix">2. Garuda Linux Launches Garuda Nix</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-09-21/#3-peppermint-os-begins-shift-from-x-org-to-xlibre">3. Peppermint OS Begins Shift from X.Org to XLibre</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-09-21/#4-gnu-wget-2-3">4. GNU Wget 2.3</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-09-21/#5-portainer-3-0-goes-kubernetes-first">5. Portainer 3.0 Goes Kubernetes-First</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-09-21/#6-terminal-command-line-tooling">6. Terminal &amp; Command-Line Tooling</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-09-21/#7-storage-self-hosting">7. Storage &amp; Self-Hosting</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-09-21/#8-other-releases-ecosystem">8. Other Releases &amp; Ecosystem</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-09-21/#sources">Sources</a>
+                      
+                    </li>
+                  
+                
+              
+            </ul>
+          </nav>
+        </details>
+      
+
+      <div class="report-body">
+        <h1 id="linux-news-roundup-september-21-2026">Linux News Roundup (September 21, 2026)</h1>
+<p><strong>Topic:</strong> Linux News
+<strong>Report generated:</strong> 2026-09-21</p>
+<hr />
+<h2 id="executive-summary">Executive Summary</h2>
+<p>The week of September 14–21, 2026 was heavy on <strong>distribution releases</strong> and <strong>system-level tooling</strong>. <strong>MX Linux 25.3 “Infinity”</strong> became the latest update in the popular Debian-based series, and <strong>Garuda Linux</strong> took an unusual step by launching <strong>Garuda Nix</strong>, a standalone NixOS-based flavor that charts a path away from its usual Arch foundation. <strong>Peppermint OS</strong> signaled a significant shift underway in the X11 ecosystem by starting to replace the X.Org Server with the <strong>XLibre</strong> implementation, while <strong>GNU Wget 2.3</strong> and <strong>Kitty 0.49</strong> delivered meaningful security and performance work. On the self-hosting front, <strong>RustFS 1.0</strong> reached general availability as an open-source S3-compatible object store, <strong>Portainer 3.0</strong> pivoted to a Kubernetes-first codebase, and <strong>Pangolin 1.23</strong> simplified clustered reverse-proxy deployments. Below is a closer look at the week’s headlines.</p>
+<hr />
+<h2 id="1-mx-linux-25-3-infinity">1. MX Linux 25.3 “Infinity”</h2>
+<p>The MX Linux team released <strong>MX Linux 25.3</strong> on September 20 as the third update in the MX Linux 25 “Infinity” series, available with Xfce, KDE Plasma, and Fluxbox flavors. Coming roughly four months after MX Linux 25.2, the point release is based on <strong>Debian 13.7 “Trixie”</strong> and ships the long-term-supported <strong>Linux 6.12 LTS</strong> kernel on the standard ISOs, while a Liquorix-flavored <strong>Linux 7.2</strong> kernel is used on the Xfce AHS (Advanced Hardware Support) ISO.</p>
+<p>Highlights include the <strong>Mesa 26.1.4</strong> graphics stack on AHS-enabled builds (backported from Debian Sid), support for Siduction 7.x kernels installable through the MX Package Installer, and the ability for the installer to set <code>lazytime</code> in fstab by default on fresh installs. The release also adds polish to the MX Welcome, MX Tools, and custom-toolbox utilities, introduces a new <strong>MX Theme Colors</strong> tool for custom-highlight themes and a <strong>Verify-iso-sig</strong> tool for checking ISO digital signatures. The MX Linux 25 “Infinity” series, which began in November 2025, is notable for its dual SysVinit/systemd init support, Debian's deb822 source format, a Qt 6 port of MX Tools, and Wayland-by-default for the Plasma edition.</p>
+<hr />
+<h2 id="2-garuda-linux-launches-garuda-nix">2. Garuda Linux Launches Garuda Nix</h2>
+<p>On September 20, <strong>Garuda Linux</strong> announced <strong>Garuda Nix</strong>, a standalone project that brings the distribution's familiar desktop configurations, styling, and opinionated defaults to <strong>NixOS</strong>. A key point: Garuda Nix is <strong>not Arch-based</strong> — while the regular Garuda Linux distribution is built on Arch, Garuda Nix uses NixOS as its foundation.</p>
+<p>The project evolved from the earlier Garuda Nix Subsystem, originally an add-on that let Garuda users install NixOS on the same partition using separate subvolumes. It has since been rebranded as a standalone distro offering two desktop configurations, <strong>Dr460nized</strong> and <strong>Mokka</strong>, which reuse the same dotfiles as the corresponding Garuda Linux editions. Installation works through the graphical <strong>Calamares</strong> installer or a command-line <code>install-garuda-nix</code> utility; either installer can deploy both desktops because the NixOS install is network-based. The setup includes a ready-to-use Nix flake under <code>/etc/nixos</code> and incorporates <strong>Chaotic Nyx</strong>, the Nix counterpart to Garuda's well-known Chaotic-AUR repository, for additional prebuilt packages. The CLI installer additionally supports configuring <strong>NixOS Impermanence</strong>, implemented via Btrfs rollbacks on Btrfs systems or a tmpfs root with ext4.</p>
+<hr />
+<h2 id="3-peppermint-os-begins-shift-from-x-org-to-xlibre">3. Peppermint OS Begins Shift from X.Org to XLibre</h2>
+<p><strong>Peppermint OS</strong>, the lightweight Debian- and Devuan-based distribution built around XFCE, announced on September 21 that it has begun testing an updated Debian edition that replaces the <strong>X.Org Server</strong> with <strong>XLibre</strong> while keeping the X11 display protocol.</p>
+<p>Planned for upcoming ISO refreshes, the change has XLibre handle graphical rendering, window drawing, and input devices; the project says testing so far has not uncovered significant compatibility issues. Importantly, the move does <strong>not</strong> signal a transition to Wayland — Peppermint says it has no immediate plans to leave X11, and notes XFCE's development currently targets both X11 and Wayland. The first ISO built this way is the 64-bit Debian flagship nightly image. A notable build-system change accompanies the shift: it's the project's first Debian ISO created <strong>without Debian's traditional live-build tooling</strong>, now starting directly from <strong>mmdebstrap</strong> rather than debootstrap, following the architecture developed for its Devuan edition. The Devuan-based edition is also moving to XLibre and will be released for community testing separately once final fixes land.</p>
+<hr />
+<h2 id="4-gnu-wget-2-3">4. GNU Wget 2.3</h2>
+<p><strong>GNU Wget 2.3</strong> was released on September 21 as the latest version of the multithreaded successor to the GNU Wget command-line downloader, bringing security hardening, bug fixes, and improved Wget1.x compatibility. New features include converting CSS files with <code>--convert-links</code>, support for iframe <code>srcdoc</code> plus the <code>data-src</code> and <code>data-srcset</code> HTML attributes, a new <code>--progress=dot</code> option, printing headers without downloading via <code>--spider/-S</code>, and support for <code>Content-Length: 0</code> in POST, PUT, and PATCH requests per RFC 9110.</p>
+<p>On the security front, Wget 2.3 fixes an integer overflow in cookie parsing and a stack overflow during recursive parsing of local files, caps XML parsing recursion at 1024 levels, and only accepts secure cookies from HTTPS. Path-traversal prevention for <code>Content-Disposition</code> is improved, with filenames sanitized and reduced to their basename, and Metalink paths are sanitized on Windows. TLS backends received attention too: Wget now validates the purpose of SSL/TLS certificates, GnuTLS accepts system settings (and requires 3.6.5 or newer), OpenSSL gains post-handshake auth, and WolfSSL respects <code>NO_OLD_TLS</code>, enables the domain check, and improves OCSP checks. Wget1.x compatibility improved for <code>--directory-prefix/-P</code>, <code>--accept/--reject</code>, and URL unescaping, and multiple memory leaks were fixed.</p>
+<hr />
+<h2 id="5-portainer-3-0-goes-kubernetes-first">5. Portainer 3.0 Goes Kubernetes-First</h2>
+<p><strong>Portainer</strong> confirmed on September 20 that its next major release, <strong>Portainer 3.0</strong>, will shift the platform's development focus to <strong>Kubernetes</strong>, with Docker, Swarm, and Podman becoming secondary. The company says <strong>Portainer 2.45 LTS</strong> will be the final release in the 2.x series, with 3.0 arriving as an STS release followed by a new LTS. New features around the policy engine, GitOps, and observability will mainly target Kubernetes, which has grown to the point that maintaining identical capabilities across Docker, Podman, Swarm, and Kubernetes in one codebase is no longer practical. Users can still connect and manage Docker, Swarm, and Podman in 3.x, but these environments will not receive every new platform feature.</p>
+<p>For Docker users, Portainer points to its <strong>Portainer-D2K</strong> compatibility layer, which makes Kubernetes look like a Docker environment and exposes a Docker-compatible API so existing automation and Compose tooling keep working. A migration add-on will convert Docker containers and stacks into Kubernetes manifests for deployment via GitOps. Notably, <strong>Portainer Community Edition (CE)</strong> will stay on the 2.x codebase — there will be no separate CE 3.x — with the free path available through Portainer's existing “3 Nodes Free” Business Edition program. Following community criticism of the announcement, CEO Neil Cresswell clarified the company is not abandoning Docker, though the strategic direction is clearly Kubernetes.</p>
+<hr />
+<h2 id="6-terminal-command-line-tooling">6. Terminal &amp; Command-Line Tooling</h2>
+<p><strong>Kitty 0.49</strong> (September 21) introduced official <strong>custom shader support</strong>, enabling GPU-powered visual effects such as animated backgrounds, focus highlighting, cursor effects, and click animations. Performance is a headline feature: real-world throughput improves by roughly <strong>15–35%</strong>, with text-heavy workloads up to ~35% faster, plain ASCII workloads ~50% faster, and Unicode workloads ~15% faster. UTF-8 decoding was optimized with SIMD (with an AVX-512 decoder offering up to a further 75% for multibyte text on Intel Ice Lake+ and AMD Zen 4+), alpha blending for graphics-protocol images is two to 3.5x faster, and HarfBuzz shaping results are cached. New options include <code>window_border_radius</code> for rounded borders, <code>remap_modifiers</code>, a proportional-splits sizing policy, a new <code>kitten @ screenshot</code> command, and a <code>kitten @ set-os-window-title</code> command; several Wayland-specific issues (high-resolution scroll wheel handling, clipboard sharing between isolated containers) were also fixed.</p>
+<p><strong>Rsync 3.5.1</strong> (September 21), arriving about a month after the major 3.5 release, fixes several path-handling regressions: explicit sender paths can again traverse symlinked parent directories, <code>--files-from</code> paths are correctly treated as operator-supplied rather than beneath the transfer root, and access to <code>/dev/stdin</code>, <code>/dev/stdout</code>, <code>/dev/stderr</code>, and <code>/dev/fd/N</code> inside user namespaces is restored. The release bumps the protocol number to <strong>33</strong>, adding a new 4 KiB logical-block statistic to <code>--stats</code>, and adds support for internationalized domain names when compiled with the required library.</p>
+<hr />
+<h2 id="7-storage-self-hosting">7. Storage &amp; Self-Hosting</h2>
+<p><strong>RustFS 1.0</strong> reached general availability on September 19 as the first production-ready release of the open-source, <strong>Apache 2.0</strong>-licensed, S3-compatible distributed object storage platform written in Rust. The milestone arrives at a notable moment: MinIO recently ended maintenance of its open-source products and shifted its commercial offering to a proprietary model, and RustFS positions itself as a permissively-licensed, self-hosted alternative in that gap. The release includes bucket and object lifecycle management, multipart uploads, erasure coding, data tiering, <strong>S3 Tables</strong> with an integrated Apache Iceberg REST Catalog, and access via not just S3 but also WebDAV, the Swift API, FTP/FTPS, and MCP. Security features cover IAM, OIDC, KMS integration, server-side encryption, STS tokens, mTLS, and auditing; it runs on Linux, Windows, and macOS with DEB and RPM packages. Since going open source in July 2025, RustFS reports more than 32,000 GitHub stars, over 10 million Docker Hub pulls, and over 2.7 million deployed instances. A <strong>RustFS 2.0</strong> is planned to expand toward AI-infrastructure storage workloads with S3 Vectors.</p>
+<p><strong>Pangolin 1.23</strong> (September 19) made the open-source, zero-trust remote access platform's <strong>clustering</strong> easier to deploy. DNS resolution and certificate management moved into the main Pangolin container, the deployment process was streamlined, and public docs now cover a two-node clustered setup. High availability is offered through Pangolin's self-service Scale tier and Enterprise plans, with free license keys for personal use and small organizations. Version 1.23 also integrates sites into the main Pangolin CLI (Newt, its lightweight connector, can now run through the same command line), adds a centralized list of all organizations hosted on an instance, and introduces support for multiple server administrator accounts.</p>
+<hr />
+<h2 id="8-other-releases-ecosystem">8. Other Releases &amp; Ecosystem</h2>
+<p>Beyond the headlines above, the week (as tracked in the 9to5Linux Weekly Roundup and Linuxiac Week 38 wrap-up) included <strong>Clonezilla Live 3.3.3-37</strong> with HTTP boot and LUKS2 support, <strong>Raspberry Pi OS 2026-09-15</strong> with a new dock and revamped desktop controls, <strong>Tails 7.13</strong> with faster shutdowns, and <strong>Arch-based Omarchy 4.0.4</strong> making its custom kernel the default. Software releases included Firefox and Thunderbird 156, <code>GNU Coreutils 9.12</code> (with faster <code>sort</code>, <code>cut</code>, and <code>uniq</code>), PipeWire 1.6.9, VirtualBox 7.2.18, Calibre 9.15, HPLIP 3.26.6, DXVK 3.1.1, and MariaDB 13.0.2 — with kernel updates across the 7.2, 6.18 LTS, and 6.12 LTS lines. Looking ahead, <strong>Ubuntu 26.10 Beta</strong> is expected in the coming week.</p>
+<hr />
+<h2 id="sources">Sources</h2>
+<ul>
+<li>9to5Linux — <em>MX Linux 25.3 “Infinity” Is Out with Linux Kernel 7.2, Based on Debian 13.7</em> (September 20, 2026) — https://9to5linux.com/mx-linux-25-3-infinity-is-out-with-linux-kernel-7-2-based-on-debian-13-7</li>
+<li>Linuxiac — <em>Garuda Linux Launches Garuda Nix for NixOS Users</em> (September 20, 2026) — https://linuxiac.com/garuda-linux-launches-garuda-nix-for-nixos-users/</li>
+<li>Linuxiac — <em>Peppermint OS Starts Its Shift from X.Org to XLibre</em> (September 21, 2026) — https://linuxiac.com/peppermint-os-starts-its-shift-from-x-org-to-xlibre/</li>
+<li>9to5Linux — <em>GNU Wget 2.3 Released with New Features, Improvements, and Bug Fixes</em> (September 21, 2026) — https://9to5linux.com/gnu-wget-2-3-released-with-new-features-improvements-and-bug-fixes</li>
+<li>Linuxiac — <em>Portainer 3.0 Goes Kubernetes-First, Leaving Docker Secondary</em> (September 20, 2026) — https://linuxiac.com/portainer-3-0-goes-kubernetes-first-leaving-docker-secondary/</li>
+<li>Linuxiac — <em>Kitty 0.49 Terminal Emulator Lands With Custom Shaders and Faster Performance</em> (September 21, 2026) — https://linuxiac.com/kitty-0-49-terminal-emulator-lands-with-custom-shaders-and-faster-performance/</li>
+<li>Linuxiac — <em>Rsync 3.5.1 Fixes Path Regressions, Adds Protocol 33</em> (September 21, 2026) — https://linuxiac.com/rsync-3-5-1-fixes-path-regressions-adds-protocol-33/</li>
+<li>Linuxiac — <em>RustFS 1.0 S3-Compatible Object Storage Reaches GA</em> (September 19, 2026) — https://linuxiac.com/rustfs-1-0-s3-compatible-object-storage-reaches-ga/</li>
+<li>Linuxiac — <em>Pangolin 1.23 Tunneled Reverse Proxy Makes High Availability Easier to Deploy</em> (September 19, 2026) — https://linuxiac.com/pangolin-1-23-tunneled-reverse-proxy-makes-high-availability-easier-to-deploy/</li>
+<li>9to5Linux — <em>9to5Linux Weekly Roundup: September 20th, 2026</em> (September 20, 2026) — https://9to5linux.com/9to5linux-weekly-roundup-september-20th-2026</li>
+<li>Linuxiac — <em>Linuxiac Weekly Wrap-Up: Week 38, 2026 (September 14 – 20)</em> (September 20, 2026) — https://linuxiac.com/linuxiac-weekly-wrap-up-week-38-2026-september-14-20/</li>
+</ul>
+<hr />
+<p><em>Report compiled from publicly available web sources on 2026-09-21. Release dates, versions, and figures are as reported by the cited sources and may vary slightly by edition or region.</em></p>
+
+      </div>
+    </div>
+  </article>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Built with Zola — the Rust-powered static site generator.</p>
+  </footer>
+</body>
+</html>
