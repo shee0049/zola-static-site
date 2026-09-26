@@ -502,6 +502,17 @@ hr {
   max-width: var(--measure);
 }
 
+/* album-cover thumbnails float to the left of each report section */
+.report p > img {
+  float: left;
+  width: 96px; height: 96px;
+  object-fit: cover;
+  border-radius: 6px; border: 1px solid var(--border);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+  margin: 0 1rem 0.6rem 0;
+}
+.report p::after { content: ""; display: block; clear: both; }
+
 .page { max-width: var(--measure); margin-inline: auto; }
 
 .page > p:first-of-type { margin-top: 0; }
