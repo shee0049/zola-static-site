@@ -47,7 +47,7 @@ cut 2022–2026 across three Dublin studios and is previewed by the singles
 **"Giraffe"** (May) and the superb **"Placeholder"**, which Kiely frames around
 mental-health comfort distractions and childhood nostalgia ("I said I wanted to be a Power Ranger… I've never forgiven them"). If *Most Normal* was in your rotation, this is the week's must-check release. *Status:* Out tomorrow, Sept 25. *Sources:* Rough Trade, The Line of Best Fit, Stereogum, BrooklynVegan (Sept 2026).
 
-![Gilla Band — Pugnello](https://coverartarchive.org/release/3c833a75-73bd-4193-acc5-7bd16a676932/45591674778.jpg)
+![Gilla Band — Pugnello](https://archive.org/services/img/mbid-3c833a75-73bd-4193-acc5-7bd16a676932)
 
 ---
 
@@ -107,7 +107,7 @@ touchstone for the heritage/horror-punk flank of the list, and a nice pairing
 with the Bad Brains archive above. *Status:* Announced — out Nov 13. *Source:*
 Punknews.org (Sept 2026).
 
-![Misfits — American Psycho](https://coverartarchive.org/release/eab6ff40-ea1d-471a-bdb8-056d323333f5/6882658619.png)
+![Misfits — American Psycho](https://archive.org/services/img/mbid-eab6ff40-ea1d-471a-bdb8-056d323333f5)
 
 ---
 
