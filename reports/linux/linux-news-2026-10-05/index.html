@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Linux News Roundup (October 5, 2026) — shee0049</title>
+  <meta name="description" content="Ubuntu 26.10 Beta lands with 100% Rust coreutils, OpenMandriva ROME 26.09 and systemd-free Nitrux 7.0 ship, Debian Trixie patches 1300+ kernel CVEs, and Zig 0.17, Phosh 0.58, and Pangolin 1.24 land.">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#2e3440">
+  <link rel="stylesheet" href="https://shee0049.github.io/zola-static-site/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="site-nav">
+      <a class="brand" href="https://shee0049.github.io/zola-static-site">shee0049</a>
+      <span class="nav-links">
+        <a href="https://shee0049.github.io/zola-static-site">Home</a>
+        <a href="https://shee0049.github.io/zola-static-site/reports">Reports</a>
+      </span>
+    </nav>
+  </header>
+
+  <main class="site-main">
+    
+  <article class="report report--linux">
+    <p class="breadcrumb">
+      <a href="https://shee0049.github.io/zola-static-site/reports">Reports</a>
+       / <a href="https://shee0049.github.io/zola-static-site/reports/linux">linux</a>
+    </p>
+
+    <div class="report-layout">
+      
+        <details class="report-toc" open>
+          <summary>On this page</summary>
+          <nav>
+            <ul>
+              
+                
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-10-05/#executive-summary">Executive Summary</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-10-05/#1-ubuntu-26-10-beta-rust-coreutils-and-gnome-51">1. Ubuntu 26.10 Beta: Rust Coreutils and GNOME 51</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-10-05/#2-openmandriva-lx-26-09-rome">2. OpenMandriva Lx 26.09 &quot;ROME&quot;</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-10-05/#3-systemd-free-nitrux-7-0">3. Systemd-Free Nitrux 7.0</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-10-05/#4-security-debian-s-1300-cve-kernel-update-and-parrot-os-7-4">4. Security: Debian&#39;s 1300+ CVE Kernel Update and Parrot OS 7.4</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-10-05/#5-developer-tooling-zig-0-17">5. Developer Tooling: Zig 0.17</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-10-05/#6-mobile-linux-phosh-0-58">6. Mobile Linux: Phosh 0.58</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-10-05/#7-self-hosting-pangolin-1-24">7. Self-Hosting: Pangolin 1.24</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-10-05/#8-other-releases-ecosystem">8. Other Releases &amp; Ecosystem</a>
+                      
+                    </li>
+                  
+                    <li>
+                      <a href="https://shee0049.github.io/zola-static-site/reports/linux/linux-news-2026-10-05/#sources">Sources</a>
+                      
+                    </li>
+                  
+                
+              
+            </ul>
+          </nav>
+        </details>
+      
+
+      <div class="report-body">
+        <h1 id="linux-news-roundup-october-5-2026">Linux News Roundup (October 5, 2026)</h1>
+<p><strong>Topic:</strong> Linux News
+<strong>Report generated:</strong> 2026-10-05</p>
+<hr />
+<h2 id="executive-summary">Executive Summary</h2>
+<p>The week of September 28 – October 4, 2026 opened the final stretch toward the <strong>Ubuntu 26.10 (Stonking Stingray)</strong> release, with <strong>Canonical shipping the beta</strong> on a <strong>Linux 7.3</strong> kernel and <strong>GNOME 51</strong>, and completing the <strong>100% Rust coreutils migration</strong>. <strong>OpenMandriva Lx 26.09 "ROME"</strong> and <strong>Nitrux 7.0</strong> both made the rounds as major rolling and systemd-free releases, while the <strong>Debian Project</strong> delivered what may be its biggest-ever kernel security update, patching more than <strong>1313 CVEs</strong> in the Linux 6.12 LTS series. On the developer tooling front, <strong>Zig 0.17</strong> arrived with a heavily reworked ELF linker and build system, mobile Linux got a fresh <strong>Phosh 0.58</strong>, and the self-hosting space saw <strong>Pangolin 1.24</strong> introduce full-tunnel Exit Nodes. Below is a closer look at the week's headlines.</p>
+<hr />
+<h2 id="1-ubuntu-26-10-beta-rust-coreutils-and-gnome-51">1. Ubuntu 26.10 Beta: Rust Coreutils and GNOME 51</h2>
+<p><strong>Canonical</strong> released the beta of the upcoming <strong>Ubuntu 26.10 (Stonking Stingray)</strong> on October 1 for public testing and early adopters, ahead of a final release expected on <strong>October 15</strong>. The beta is powered by the upcoming <strong>Linux 7.3</strong> kernel series, the <strong>Mesa 26.2</strong> graphics stack, and the recently released <strong>GNOME 51</strong> desktop environment. Headline news this cycle is the <strong>100% Rust coreutils migration</strong> — the default core utilities now run entirely on the Rust-based <strong>uutils</strong> implementation.</p>
+<p>Ubuntu 26.10 also promises a complete desktop experience on <strong>RVA23-compliant hardware</strong>, improved driver management and multimedia support via the <strong>GStreamer 1.30</strong> framework, a new onboarding experience for newcomers, a simplified installer, and AI-powered speech-to-text voice interaction. Under the hood it transitions from <code>dbus-daemon</code> to <strong>dbus-broker</strong>, adds Microsoft password and MFA authentication support, and integrates Ubuntu Certified hardware information into GNOME Settings. A Release Candidate is expected around <strong>October 8</strong>, and the release will be supported for nine months, until June 2027.</p>
+<hr />
+<h2 id="2-openmandriva-lx-26-09-rome">2. OpenMandriva Lx 26.09 "ROME"</h2>
+<p><strong>OpenMandriva Lx 26.09 ROME</strong> was released on October 1 as the rolling-release edition of the successor to the Mandriva Linux distribution. It is powered by the <strong>Linux 7.2</strong> kernel and features the latest <strong>KDE Plasma 6.7</strong> desktop with the <strong>KDE Gear 26.08.1</strong> and <strong>KDE Frameworks 6.29</strong> suites, alongside GNOME 50.3, Xfce 4.20, LXQt 2.4, MATE 1.28, Spectrwm, Hyprland 0.56.2, COSMIC 1.7, and Sway 1.12.</p>
+<p>The release notably adds support for Canonical's <strong>Snap</strong> format alongside Flatpak and AppImage, and swaps <strong>Ungoogled-Chromium for Helium</strong> as the default browser on the KDE Plasma and LXQt editions. Under the hood, the toolchain is updated to LLVM/Clang 23, GCC 16.2, RPM 6.1, Qt 6.11.2, GTK 4.22.5, and ROCm 10.0.0, with almost all packages built with LTO enabled. New bootstrapping support heads to <strong>RISC-V and LoongArch64</strong>, the open NVIDIA kernel module has moved directly into the kernel, and gaming improves with the latest Steam Client, Proton, and DXVK. The COSMIC ISO was not published at release time due to a login-manager issue.</p>
+<hr />
+<h2 id="3-systemd-free-nitrux-7-0">3. Systemd-Free Nitrux 7.0</h2>
+<p>The <strong>Nitrux</strong> team shipped <strong>version 7.0</strong> on October 1, coming more than four months after Nitrux 6.1. This immutable, <strong>systemd-free</strong> GNU/Linux distribution now runs the <strong>Linux 7.2.6</strong> kernel (with CachyOS patches) and the <strong>Hyprland 0.55.4</strong> Wayland compositor, with the Lüv 0.8.9 icon theme, KDE Frameworks 6.26, and MauiKit 4.0.4.</p>
+<p>Nitrux 7.0 updates the <strong>Nitrux Update Tool System</strong> to 3.0.3 with a revamped updater interface, and the Calamares installer now uses <strong>LUKS2</strong> for encrypted partitions with Argon2id key derivation. New components include MauiKit System, a Nitrux KStyle widget style based on KDE's Breeze, the Toma screenshot/recording utility, and Hyprscreend for managing monitor modes, scaling, and external display hotplugging. Newer additions include Desklock (a native QML Wayland session locker), Valenz and Marina workspace shells, a Nitrux PolicyKit Agent, and the Nitrux Workspace Session Manager (nwsm).</p>
+<hr />
+<h2 id="4-security-debian-s-1300-cve-kernel-update-and-parrot-os-7-4">4. Security: Debian's 1300+ CVE Kernel Update and Parrot OS 7.4</h2>
+<p><strong>Debian</strong> released a kernel security update for <strong>Debian 13 "Trixie"</strong> on September 29 addressing <strong>1313 security vulnerabilities</strong> in the Linux 6.12 LTS series — likely the biggest kernel security release the project has ever shipped. Users are urged to update to <strong>linux 6.12.111-1</strong>. As the advisory explains, the bulk of these CVEs stems from two factors: a recent policy change that assigns a CVE to essentially any commit fixing a potential security issue, and Debian Stable's habit of accumulating fixes across multiple upstream point releases into large periodic batches. While the count sounds overwhelming, the vast majority are low-severity, highly conditional, or irrelevant to any given machine.</p>
+<p><strong>ParrotSec</strong> released <strong>Parrot OS 7.4</strong> on October 3, the fourth update in the Parrot OS 7.0 series (the first to default to KDE Plasma instead of MATE). Powered by the Linux 7.1 kernel on the Debian 13.6 base, it introduces <strong>optimized ISOs for modern CPUs</strong> — x86-64-v3 images for post-2015 x64 machines and armv8.2 builds benefiting Raspberry Pi 5, Apple Silicon M-series, and Cortex-X1 boards. Updated tools include <strong>AnonSurf 6.0.1</strong>, Rocket 2.0, Metasploit Framework 6.5.4, and several others, plus a refreshed Parrot Updater 2.2.0.</p>
+<hr />
+<h2 id="5-developer-tooling-zig-0-17">5. Developer Tooling: Zig 0.17</h2>
+<p><strong>Zig 0.17</strong> was released, advancing the systems programming language with major improvements to its new <strong>ELF linker</strong>, which now has full x86_64 and SPARC64 support and partial LoongArch. It can generate static and shared libraries, handle GNU symbol versioning, DWARF debug info, and GOT generation, and developers say it can already build most x86_64 Linux projects — though it is not yet the default, with retirement of the legacy linker planned next release. <strong>Incremental compilation</strong> is significantly improved, working with Zig's watch mode for near-immediate rebuilds.</p>
+<p>The build system now runs its configuration and build-graph stages as separate processes, with a binary cache about 25% smaller and cache hits 5–10% faster. A new <strong>Build Server Protocol</strong> gives IDEs access to the build graph, though it temporarily breaks some ZLS (Zig Language Server) functionality. Platform support adds loongarch32-linux targets, generally usable 64-bit SPARC, and early xtensa-linux support, while the toolchain upgrades to <strong>LLVM/Clang 22.1.8</strong> and glibc 2.44 for cross-compilation.</p>
+<hr />
+<h2 id="6-mobile-linux-phosh-0-58">6. Mobile Linux: Phosh 0.58</h2>
+<p><strong>Phosh</strong>, the GNOME-based Linux mobile shell, reached <strong>version 0.58</strong> with a more convenient screenshot workflow — users can now open a captured image or its folder directly from the notification. The Caffeine quick setting is more configurable, and startup tracking for Flatpak apps and D-Bus-owning applications improved. On the compositor side, <strong>Phoc 0.58</strong> adds basic text-input-v3 support for GTK 4.24 compatibility, layer-shell-effects v4, and a fix for a fling-gesture crash. The <strong>Stevia</strong> on-screen keyboard now allows completion dictionaries to be installed in the user's home directory — useful for immutable systems — and Phosh First Boot 0.2 adds configurable username/password minimums, auto-adds users to <code>sudo</code>, and defaults to systemd-homed's LUKS backend. Device support through gmobile 0.7.4 adds the Google Pixel 3 XL display and Pixel 9a.</p>
+<hr />
+<h2 id="7-self-hosting-pangolin-1-24">7. Self-Hosting: Pangolin 1.24</h2>
+<p><strong>Pangolin 1.24</strong>, the open-source tunneled reverse proxy and zero-trust platform built around WireGuard, added <strong>Exit Nodes</strong> as its headline feature. Where Pangolin previously acted as a split-tunnel solution, users can now create a private resource as an Exit Node; once a client selects it, all internet traffic routes through the associated site — giving full-tunnel VPN capability. With multiple sites, Pangolin auto-selects by latency, throughput, and availability, supporting TCP, UDP, and ICMP. A notably Linux-focused addition is <strong>Subnet Router</strong> support, letting a single Linux client advertise an entire subnet so other devices reach Pangolin resources without installing the client. Client updates roll out across Windows, macOS, iOS, Android, and the CLI.</p>
+<hr />
+<h2 id="8-other-releases-ecosystem">8. Other Releases &amp; Ecosystem</h2>
+<p>The week's broader ecosystem (per the 9to5Linux weekly roundup and Linuxiac Week 40 wrap-up) included <strong>Firefox 157 Nova</strong> with a major visual refresh, <strong>LibreOffice 26.8.1</strong> with 40+ fixes, <strong>Mozilla Thunderbird 157</strong>, <strong>Arch Linux's October 2026 ISO</strong> with the ArchInstall 4.5 installer, and <strong>antiX Linux 26.1</strong> as a Debian-based systemd-free release. Software saw versions of <strong>Git 2.56</strong>, <strong>Wine 11.19</strong>, <strong>Flatpak 1.18.4</strong>, <strong>OpenSSL 4.0.3</strong>, <strong>Rust 1.99</strong>, <strong>Qt 6.12 LTS</strong>, <strong>Darktable 5.6.2</strong>, and video editors <strong>Shotcut 26.9</strong> and <strong>OpenShot 4.0.1</strong>. Notable community items included <strong>Rust becoming a Tier-1 language at Microsoft</strong>, COSMIC stopping acceptance of LLM-generated pull-request content, Ubuntu 24.04 LTS users now able to upgrade to 26.04.1 LTS, and <strong>KDE Plasma 6.8</strong> due on <strong>October 14</strong>. Kernel point releases arrived across the 7.2, 6.18, 6.12, 6.6, 6.1, 5.15, and 5.10 LTS lines. Looking ahead, Ubuntu 26.10 final and KDE Plasma 6.8 both land mid-October.</p>
+<hr />
+<h2 id="sources">Sources</h2>
+<ul>
+<li>9to5Linux — <em>9to5Linux Weekly Roundup: October 4th, 2026</em> (October 4, 2026) — https://9to5linux.com/9to5linux-weekly-roundup-october-4th-2026</li>
+<li>Linuxiac — <em>Linuxiac Weekly Wrap-Up: Week 40, 2026 (September 28 – October 4)</em> (October 4, 2026) — https://linuxiac.com/linuxiac-weekly-wrap-up-week-40-2026-september-28-october-4/</li>
+<li>9to5Linux — <em>Ubuntu 26.10 Beta Released with Linux Kernel 7.3 and GNOME 51</em> (October 1, 2026) — https://9to5linux.com/ubuntu-26-10-beta-released-with-linux-kernel-7-3-and-gnome-51</li>
+<li>9to5Linux — <em>OpenMandriva Lx 26.09 "ROME" Released with KDE Plasma 6.7 and Linux Kernel 7.2</em> (October 1, 2026) — https://9to5linux.com/openmandriva-lx-26-09-rome-released-with-kde-plasma-6-7-and-linux-kernel-7-2</li>
+<li>9to5Linux — <em>Systemd-Free Nitrux 7.0 Released with Linux Kernel 7.2 and Hyprland 0.55.4</em> (October 1, 2026) — https://9to5linux.com/systemd-free-nitrux-7-0-released-with-linux-kernel-7-2-and-hyprland-0-55-4</li>
+<li>9to5Linux — <em>Latest Debian 13 "Trixie" Kernel Security Update Patches More Than 1300 CVEs</em> (October 2, 2026) — https://9to5linux.com/latest-debian-13-trixie-kernel-security-update-patches-more-than-1300-cves</li>
+<li>9to5Linux — <em>Parrot OS 7.4 Released with AnonSurf 6.0, Updated Raspberry Pi Images</em> (October 3, 2026) — https://9to5linux.com/parrot-os-7-4-released-with-anonsurf-6-0-updated-raspberry-pi-images</li>
+<li>Linuxiac — <em>Zig 0.17 Programming Language Lands With Reworked Build System</em> (October 4, 2026) — https://linuxiac.com/zig-0-17-programming-language-lands-with-reworked-build-system/</li>
+<li>Linuxiac — <em>Phosh 0.58 Linux Mobile Shell Improves Screenshots and Flatpak Apps</em> (October 5, 2026) — https://linuxiac.com/phosh-0-58-linux-mobile-shell-improves-screenshots-and-flatpak-apps/</li>
+<li>Linuxiac — <em>Pangolin 1.24 Tunneled Reverse Proxy Adds Exit Nodes, Linux Subnet Routing</em> (October 4, 2026) — https://linuxiac.com/pangolin-1-24-tunneled-reverse-proxy-adds-exit-nodes-linux-subnet-routing/</li>
+</ul>
+<hr />
+<p><em>Report compiled from publicly available web sources on 2026-10-05. Release dates, versions, and figures are as reported by the cited sources and may vary slightly by edition or region.</em></p>
+
+      </div>
+    </div>
+  </article>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Built with Zola — the Rust-powered static site generator.</p>
+  </footer>
+</body>
+</html>
