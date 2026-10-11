@@ -25,7 +25,7 @@ A **Sunday** edition, and by definition the lightest of the week. Friday's bumpe
 
 The most on-brand fresh item this week. **Chastity** — Brandon Williams' long-running Whitby, ON project, which has moved through hardcore-adjacent, dreampop and shoegaze over its run — released the new single **"So Alive I Cry"** with an official video on **Oct 7** (Lambgoat), and it's part of this week's Eh! List feature. The song leads into their next full-length **"I Built This Prison Myself"**, out **Nov 13 via Dine Alone Records** (MusicBrainz-confirmed street date), which was announced back in August with the first single "Misled Youth" (Stereogum, Exclaim, Aug 25). For your post-hardcore / shoegaze / indie side — and the noisier end where Chastity has overlapped with peers like **Ragana** and **Drowse** — this is the watch LP of the month. *Status:* **Single out now (Oct 7); LP Nov 13 (Dine Alone).** *Sources:* Lambgoat (Oct 7); Exclaim (Eh! List, Oct 9); Stereogum (Aug 25); Exclaim (Aug 25).
 
-![Chastity — I Built This Prison Myself](https://coverartarchive.org/release-group/cfcf193f-e75a-41f9-bb69-d1191c8723a0/front-250)
+![Chastity — I Built This Prison Myself](https://archive.org/download/mbid-cdcf3385-4e14-455a-a37f-d4faebd2a720/mbid-cdcf3385-4e14-455a-a37f-d4faebd2a720-46017064677_thumb250.jpg)
 
 ---
 
