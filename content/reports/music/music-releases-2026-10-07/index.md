@@ -25,7 +25,7 @@ A Wednesday edition that skips ahead to what's *just* out and what the last 24 h
 
 The most on-lane release of the day and the clear hardcore pick. **Boston hardcore** unit **Haywire** released their **Roadrunner Records full-length debut**, ***I Don't Wanna Say Goodbye***, **Friday, Oct 2** — and it's now in the middle of a proper critic sweep: **Kerrang!** (Sep 29) and **New Noise** (Oct 2) reviewed it around release, **Rolling Stone** ran a feature ("Haywire Are Living Their Hardcore Dreams," Oct 6) profiling the band's momentum, and **Pitchfork** published its review **today, Oct 7**. Preceded by the explosive **"Interstate Love Affair"** and **"Sincerely Yours,"** the record follows up their 2024 DAZE debut *Conditioned for Demolition* with the modern, pummeling New England hardcore that's been tearing up Sound & Fury-style bills. *Status:* **Out Oct 2** (citing MB release date; Pitchfork/RS/Kerrang reviews). *Sources:* Pitchfork (Oct 7), Rolling Stone (Oct 6), Kerrang! (Sep 29), New Noise (Oct 2), MusicBrainz (2026-10-02).
 
-![Haywire — I Don't Wanna Say Goodbye](https://dn711106.ca.archive.org/0/items/mbid-3afc2356-a1f3-451b-9127-cbd6889a1104/mbid-3afc2356-a1f3-451b-9127-cbd6889a1104-45961940800.jpg)
+![Haywire — I Don't Wanna Say Goodbye](https://archive.org/services/img/3afc2356-a1f3-451b-9127-cbd6889a1104)
 
 ---
 

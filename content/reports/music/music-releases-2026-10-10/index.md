@@ -25,7 +25,7 @@ A **Saturday** edition, so by definition a quieter sheet than yesterday's bumper
 
 The must-hear of the day for the heavier end of your noise/sludge lane. **Deafheaven** — a band at the blackgaze / post-metal / noise-rock intersection that sits very close to your King Woman / Ragana / Kowloon Walled City side — **surprise-released** this EP with **zero advance notice** on Friday (Oct 9). Reviews are unanimous that it is their **heaviest record yet**, a bluntly anti-war statement that leans into the blast-beaten, metallic side of their sound rather than the dreamier *Lonely People With Power* terrain. The centerpiece is **"Hunter"**, which gets an accompanying **short film shot by Oscar-winning cinematographer Janusz Kamiński** (*Schindler's List*, *Saving Private Ryan*) — an unusual prestige-grade pairing for a surprise EP. Rolling Stone frames it as standing "against war"; Revolver lists "Hunter" among the six best new songs of the week. *Status:* **Out now (Oct 9).** *Sources:* Pitchfork (Oct 9); Rolling Stone (Oct 9); Revolver (Oct 9); IDIOTEQ (Oct 9); Stereogum (Oct 9); ThePRP (Oct 4, "Hunter" live debut).
 
-![Deafheaven — At Work in the Fields of the Bomb](https://coverartarchive.org/release-group/67d9fff1-498d-4805-8215-afe32dd1d9f0/front-250)
+![Deafheaven — At Work in the Fields of the Bomb](https://archive.org/services/img/67d9fff1-498d-4805-8215-afe32dd1d9f0)
 
 ---
 
@@ -33,7 +33,7 @@ The must-hear of the day for the heavier end of your noise/sludge lane. **Deafhe
 
 A collector-grade item for the classic-punk lane. **Bad Religion** reissued **the most infamous record in their catalog** — *Into the Unknown*, the 1983 one-off prog/keyboard experiment that the band has spent decades half-disowning, generally dismissing as "an exercise in ego." The new version (via Epitaph) is remastered and, tellingly, shipped with an **apology letter from Brett Gurewitz and Greg Graffin**. It was pressed as a deliberately scarce **one-time-only run of 1,000 copies** and **sold out within the hour** of the announcement (Punknews, Oct 9). If a repress lands — the label left the door open — this is squarely in the wheelhouse of your Refused / classic-punk / Fake Names interests (Bad Religion's Brian Baker is a member of that supergroup). *Status:* **Reissue announced Oct 9; limited 1,000-copy run sold out instantly.** *Sources:* Punknews (Oct 9); Louder (background); Rolling Stone (7Seconds reissue context).
 
-![Bad Religion — Into the Unknown](https://coverartarchive.org/release-group/1c60c365-76fe-3323-ad79-7413f53caaac/front-250)
+![Bad Religion — Into the Unknown](https://archive.org/services/img/1c60c365-76fe-3323-ad79-7413f53caaac)
 
 ---
 

@@ -45,7 +45,7 @@ the band's US tour starting late October. If you've been following the Flenser-a
 the list, this is the freshest thing of the week. *Status:* Digital out Fri, Oct 2; physical Nov 27.
 *Sources:* Punknews.org (Sept 29 2026), MusicBrainz (2026-10-02).
 
-![Agriculture — The Spiritual Sound, Live in Europe 2026](https://coverartarchive.org/release-group/c9184294-8909-4cd2-b3d9-e92c063c7d35/front-250)
+![Agriculture — The Spiritual Sound, Live in Europe 2026](https://archive.org/services/img/c9184294-8909-4cd2-b3d9-e92c063c7d35)
 
 ---
 
@@ -62,7 +62,7 @@ tastes drift toward the Kowloon Walled City–to–post-metal part of the list. 
 Canadian-angle addition to the report. *Status:* Out Fri, Oct 2. *Sources:* The Razor's Edge
 Release Round Up (Sept 26 2026), MusicBrainz (2026-10-02).
 
-![Dissimulator — Artifice Dissolves](https://coverartarchive.org/release-group/19a3a636-9515-46ab-a038-4d5d78709b98/front-250)
+![Dissimulator — Artifice Dissolves](https://archive.org/services/img/19a3a636-9515-46ab-a038-4d5d78709b98)
 
 ---
 
@@ -77,7 +77,7 @@ the Windhand-to-stoner end of your list, and it's a safe bet for fans of riff-fo
 instrumental-leaning rock. *Status:* Out Fri, Oct 2. *Sources:* The Razor's Edge Release Round
 Up (Sept 26 2026), MusicBrainz (2026-10-02).
 
-![The Machine — ANother Sun](https://coverartarchive.org/release-group/44e9d875-97ba-4595-aa32-7658644444e4/front-250)
+![The Machine — ANother Sun](https://archive.org/services/img/44e9d875-97ba-4595-aa32-7658644444e4)
 
 ---
 

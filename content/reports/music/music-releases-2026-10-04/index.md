@@ -25,7 +25,7 @@ A Sunday edition that catches a fresh burst of announcements made over the last 
 
 The freshest full-length for the indie/acoustic end of your list. Indianapolis trio **Wishy** — who broke through with the acclaimed 2024 LP *Triple Seven* and sit neatly in the dreamy-but-punchy shoegaze / power-pop lane — released their new album ***Nature's Pill*** on **Friday, October 2, 2026**. MusicBrainz pins the street date at **2026-10-02**, and it appeared at the top of Exclaim!'s "New Album Releases for October 2, 2026" roundup alongside Victoria Monét and Greg Freeman. It follows *Paradise on Planet Popstar* (2025) and keeps the band's signature blend of chiming, feedback-kissed guitars and hook-forward indie songcraft. If *Triple Seven* hooked you, this is the week's clear indie-lane must. *Status:* Out **Oct 2**. *Sources:* Exclaim! (Oct 2), MusicBrainz.
 
-![Wishy — Nature's Pill](https://coverartarchive.org/release-group/e64b1a5d-311b-412d-b409-85da63b8f3d3/front-250)
+![Wishy — Nature's Pill](https://archive.org/services/img/e64b1a5d-311b-412d-b409-85da63b8f3d3)
 
 ---
 
@@ -41,7 +41,7 @@ A straight hit for the **sludge / doom** stretch. **Autumn Tomb** is a new doom 
 
 One for the **noise / psych / doom** file. Salford/Manchester collective **Gnod** — long-running purveyors of sprawling, trance-like psychedelic noise that veers into doomy drone — return with ***Chronicles of Gnowt (Vol 2)***, due **Friday, October 9 via Rocket Recordings**. It's the second installment of a series that began with *Vol 1* back in April 2026 (also on Rocket), and The Razor's Edge lines it up under that week's Doom / Stoner / Psych umbrella. If you like your heaviness viscous and hypnotic rather than riff-shredding, this is a tidy next-week pickup for the noise-rock wing of the playlist. *Status:* Out **Oct 9**. *Sources:* The Razor's Edge (Release Round Up, Oct 9), MusicBrainz.
 
-![Gnod — Chronicles of Gnowt (Vol 2)](https://coverartarchive.org/release-group/fae34f5f-8f6b-451e-b494-57e82ce264a6/front-250)
+![Gnod — Chronicles of Gnowt (Vol 2)](https://archive.org/services/img/fae34f5f-8f6b-451e-b494-57e82ce264a6)
 
 ---
 
@@ -55,7 +55,7 @@ A fresh **post-punk** flag for the year-ahead horizon. Bristol collective **Kniv
 
 A **classics / ancestry** pick. Motörhead are re-releasing one of their heaviest records, 1986's ***Orgasmatron***, as a **deluxe 3xLP / 2xCD** set via **BMG** in **November**. The edition includes a **brand-new remix of the album by producer Cameron Webb**, plus the original album and a raft of outtakes and BBC sessions. The "Orgasmatron" title track — Lemmy's grinding, mid-tempo anthem (and the source of one of his most-quoted monologues) — remains a landmark of heavy, downtuned rock, so a freshly mixed edition is a welcome recontextualisation for the Sabbath-adjacent end of your classics corner. *Status:* Reissue out **November 2026** (BMG). Artwork shown is the original 1986 sleeve. *Sources:* Punknews.org (Oct 2).
 
-![Motörhead — Orgasmatron](https://coverartarchive.org/release-group/b864ee7c-5664-3fa0-a04d-9056d89efaa4/front-250)
+![Motörhead — Orgasmatron](https://archive.org/services/img/b864ee7c-5664-3fa0-a04d-9056d89efaa4)
 
 ---
 

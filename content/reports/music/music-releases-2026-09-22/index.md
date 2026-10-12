@@ -47,7 +47,7 @@ something that actually stomps. They capped the week with a second single,
 Ultimate Success Today*, this is the week's must-listen. *Status:* Out now.
 *Sources:* Northern Transmissions, No More Workhorse, mxdwn (Sept 18–22 2026).
 
-![Protomartyr — Hotel Usona](https://archive.org/download/mbid-4404e523-e505-410a-a114-aca8fd3ab4dd/mbid-4404e523-e505-410a-a114-aca8fd3ab4dd-45720620946.jpg)
+![Protomartyr — Hotel Usona](https://archive.org/services/img/4404e523-e505-410a-a114-aca8fd3ab4dd)
 
 ---
 
@@ -65,7 +65,7 @@ it is squarely your lane: sludge, noise, and dread in equal measure.
 *Status:* Out now. *Sources:* Pitchfork, The Guardian, Exclaim!, New Noise
 Magazine, Punknews (Sept 2026).
 
-![Chat Pile — Who Loves the Sun](https://archive.org/download/mbid-ced4d525-0054-4a4e-abaf-e1605849f161/mbid-ced4d525-0054-4a4e-abaf-e1605849f161-45345827278.jpg)
+![Chat Pile — Who Loves the Sun](https://archive.org/services/img/ced4d525-0054-4a4e-abaf-e1605849f161)
 
 ---
 
@@ -81,7 +81,7 @@ Knocked Loose / Go It Alone / Speed corner of your list, this is the
 nostalgia beat of the week. *Status:* Reissue announced Sept 17. *Source:*
 ThePRP (Sept 2026).
 
-![Knocked Loose — Laugh Tracks](https://archive.org/download/mbid-8be14d71-23ad-4ff9-b13f-6dafc953caa6/mbid-8be14d71-23ad-4ff9-b13f-6dafc953caa6-14667565865.jpg)
+![Knocked Loose — Laugh Tracks](https://archive.org/services/img/8be14d71-23ad-4ff9-b13f-6dafc953caa6)
 
 ---
 
@@ -96,7 +96,7 @@ the band's restless late-career activity alongside the Pennywise / T.S.O.L.
 benefit shows already on the calendar. *Status:* Announced Sept 21. *Source:*
 Punknews (Sept 2026).
 
-![Circle Jerks — VI](https://archive.org/download/mbid-f9d215f1-62ad-4cf4-a8df-229d2ff3c98f/mbid-f9d215f1-62ad-4cf4-a8df-229d2ff3c98f-2323478039.jpg)
+![Circle Jerks — VI](https://archive.org/services/img/f9d215f1-62ad-4cf4-a8df-229d2ff3c98f)
 
 ---
 

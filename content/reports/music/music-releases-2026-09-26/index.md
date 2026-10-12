@@ -51,7 +51,7 @@ records still get regular spins, this is the week's must-check. *Status:* Out
 Friday, Sept 25. *Sources:* Domino Records, Paste, Exclaim!, The Line of Best
 Fit, Northern Transmissions (Sept 2026).
 
-![Protomartyr — Hotel Usona](https://dn710905.ca.archive.org/0/items/mbid-4404e523-e505-410a-a114-aca8fd3ab4dd/mbid-4404e523-e505-410a-a114-aca8fd3ab4dd-45720620946_thumb250.jpg)
+![Protomartyr — Hotel Usona](https://archive.org/services/img/4404e523-e505-410a-a114-aca8fd3ab4dd)
 
 ---
 
@@ -71,7 +71,7 @@ Chat Pile, this is it. *Status:* Out now (released Sept 4). *Sources:* The
 Flenser, Pitchfork, New Noise Magazine, Lambgoat, Louder Than War (Aug–Sept
 2026).
 
-![Chat Pile — Who Loves the Sun](https://dn710400.ca.archive.org/0/items/mbid-ced4d525-0054-4a4e-abaf-e1605849f161/mbid-ced4d525-0054-4a4e-abaf-e1605849f161-45345827278_thumb250.jpg)
+![Chat Pile — Who Loves the Sun](https://archive.org/services/img/ced4d525-0054-4a4e-abaf-e1605849f161)
 
 ---
 

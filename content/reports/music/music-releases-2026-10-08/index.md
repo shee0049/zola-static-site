@@ -25,7 +25,7 @@ A short **Thursday** build-up edition — nothing here repeats the Oct 5/6/7 sla
 
 The easy pick for the **sludge / retro-doom** end of the wheel. Sweden's **Graveyard** return with ***Fever*** — their first full-length since 2023's *6* — out **Friday, Oct 9 via Nuclear Blast**. The band remains in its classic fuzz-heavy, psych-blues "graveyard boogie" form — thick riffs, warm organ, blues-rock swagger. If your taste sits next to earlier records like *Hisingen Blues* and *Lights Out*, this is the most reliable full-length of the week for your collection, and a natural companion to the heavier sludge/doom rotation you already keep. *Status:* **Out Oct 9.** *Sources:* Grande Rock webzine, The Razor's Edge (Oct 9 round-up), Ghost Cult Magazine (Oct 9 metal release radar).
 
-![Graveyard — Fever](https://archive.org/download/mbid-3a415e96-79e9-4839-9b65-b54a7414c5df/mbid-3a415e96-79e9-4839-9b65-b54a7414c5df-46216136657.jpg)
+![Graveyard — Fever](https://archive.org/services/img/3a415e96-79e9-4839-9b65-b54a7414c5df)
 
 ---
 
@@ -49,7 +49,7 @@ The **Canadian / indie-pop** entry this week. **Carly Rae Jepsen** announced a n
 
 **Announced today (Oct 8):** DC metalcore/melodic-death vets **Darkest Hour** shared a new single and video, **"Warrior,"** and confirmed a **December 2026 headlining U.S. tour**. It's the next preview from their upcoming album ***Suffer Divine***, out **Oct 30** (the band's first full-length in about three years). Darkest Hour sit at the harder, mid-paced edge of your hardcore/post-hardcore lane rather than the noisier end — the "Warrior" push riff is pure late-career shoulder-charge metal — and the new-year tour gives you a live reason to check in. *Status:* Single out now (Oct 8), *Suffer Divine* out **Oct 30**. *Sources:* Metalheads Forever Magazine (Oct 8), Metalheads Forever (album announcement, Sep 2).
 
-![Darkest Hour — Suffer Divine](https://archive.org/download/mbid-0ea260a7-e881-4e42-8af0-e3f605bbc139/mbid-0ea260a7-e881-4e42-8af0-e3f605bbc139-46074611119.jpg)
+![Darkest Hour — Suffer Divine](https://archive.org/services/img/0ea260a7-e881-4e42-8af0-e3f605bbc139)
 
 ---
 

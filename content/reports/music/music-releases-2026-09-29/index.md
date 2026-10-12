@@ -46,7 +46,7 @@ invented heavy metal's sound, with something new after two decades. *Status:* Ou
 *Sources:* Pitchfork, Stereogum, Rock Sound, Ultimate Classic Rock (Jul–Sept 2026), Loudwire
 release calendar (2026-10-23), MusicBrainz (2026-10-23).
 
-![Tony Iommi — From the Dark](https://coverartarchive.org/release-group/e6d04742-1d4b-4a85-bc4e-01ec9db6cc9b/front-250)
+![Tony Iommi — From the Dark](https://archive.org/services/img/e6d04742-1d4b-4a85-bc4e-01ec9db6cc9b)
 
 ---
 
@@ -60,7 +60,7 @@ Pelagic's roster bias toward riff-heavy, atmospherically-driven metal makes it a
 watchful new-player pick in the Kowloon Walled City–to–post-rock part of the list. *Status:* Out
 Friday, Oct 2. *Sources:* Loudwire 2026 release calendar, MusicBrainz (2026-10-02).
 
-![Hippotraktor — Annihilist](https://coverartarchive.org/release-group/8c694644-d26b-4a3e-8ef6-b29fff5f5005/front-250)
+![Hippotraktor — Annihilist](https://archive.org/services/img/8c694644-d26b-4a3e-8ef6-b29fff5f5005)
 
 ---
 
@@ -73,7 +73,7 @@ genre, and this pairs neatly thematically with 2025's *Songs to Sun* as a loose 
 If your *Seven Thunders Roar* rotates regularly, this is an easy October pre-order. *Status:* Out
 Oct 16. *Sources:* Loudwire 2026 release calendar, MusicBrainz (2026-10-16).
 
-![Stoned Jesus — Songs to Moon](https://coverartarchive.org/release-group/501ade8b-064d-4f87-840d-0b10af2e1c14/front-250)
+![Stoned Jesus — Songs to Moon](https://archive.org/services/img/501ade8b-064d-4f87-840d-0b10af2e1c14)
 
 ---
 

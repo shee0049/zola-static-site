@@ -25,7 +25,7 @@ A banner week for your **noise-rock** lane: Dublin's **Gilla Band** finally put 
 
 The flagship arrival this week and squarely in your **noise-rock / art-punk** lane. **Gilla Band** — the Dublin four-piece (formerly Girl Band), fronted by the gloriously unhinged **Dara Kiely** — released *Pugnello* on **September 25** via **Rough Trade**, their first LP since 2022's adored *Most Normal*. The label suite and a tidal wave of press positioned it as a return to their primal, feedback-soaked core: Pitchfork ran a strong review, Stereogum made it their **Album of the Week** for Sept 22, and *The Guardian* praised "furious originality fuelled by cathartic aggression and absurdist confessions." Irish Times called it "magnificently unhinged, hauntingly beautiful." It's the rare album that hits both the abrasive noise-rock AND the post-punk download — if your *Most Normal* or *The Talkies* still get regular spins, this is the week's can't-miss. *Status:* Out Friday, Sept 25. *Sources:* Rough Trade, Pitchfork, Stereogum, The Guardian, Paste, Irish Times, Beats Per Minute, Northern Transmissions (Sept 21–27 2026).
 
-![Gilla Band — Pugnello](https://coverartarchive.org/release-group/57abbb77-2308-4813-8367-e17f34d99238/front-250)
+![Gilla Band — Pugnello](https://archive.org/services/img/57abbb77-2308-4813-8367-e17f34d99238)
 
 ---
 
@@ -33,7 +33,7 @@ The flagship arrival this week and squarely in your **noise-rock / art-punk** la
 
 For the **sludge / industrial-noise** side, this is the heavyweight. **Godflesh** — Justin Broadrick and G.C. Green's massively influential industrial-metal duo — returned with **Decay** on **September 25** via **Relapse**, the follow-up to 2023's *Purge*. Reviews filed over the past five days (Everything Is Noise, Ghost Cult, Boolin Tunes, The Razors Edge, Echoes And Dust) describe the band's signature locked-groove, mechanized grind — the glacial, punishing sludge-metal that essentially invented the template that Kowloon Walled City and countless others build on. If you're into the slow, crushing, dystopian end of your noise-rock/sludge taste, this is a must-check: the production is heavier and more suffocating than a decade of peers. *Status:* Out Friday, Sept 25. *Sources:* Relapse Records, Everything Is Noise, Ghost Cult, Boolin Tunes, The Razors Edge (Sept 21–25 2026).
 
-![Godflesh — Decay](https://coverartarchive.org/release-group/a49761d0-cfc4-4a97-b769-9d22acba6fcd/front-250)
+![Godflesh — Decay](https://archive.org/services/img/a49761d0-cfc4-4a97-b769-9d22acba6fcd)
 
 ---
 
@@ -41,7 +41,7 @@ For the **sludge / industrial-noise** side, this is the heavyweight. **Godflesh*
 
 The hardcore pick of the week: Long Island's **Pain of Truth** released their self-titled third LP on **September 25** via **DAZE**. Early verdicts — Ghost Cult, MELODIC, Rock 'n' Load — are calling it their **heaviest and most complete record yet**, an evolution beyond 2023's *Not Through Blood* that locks into the mosh-ready, straight-adjacent hardcore the band has built its name on. For fans of Knocked Loose, Speed and The Chisel on your list, this is the week's essential hardcore drop. *Status:* Out Friday, Sept 25. *Sources:* DAZE Records, Ghost Cult, MELODIC Magazine, Rock 'n' Load (Sept 25–27 2026).
 
-![Pain of Truth — Pain of Truth](https://coverartarchive.org/release-group/d8f7ff41-aaae-48d4-9c23-0c009245666c/front-250)
+![Pain of Truth — Pain of Truth](https://archive.org/services/img/d8f7ff41-aaae-48d4-9c23-0c009245666c)
 
 ---
 
@@ -52,7 +52,7 @@ The hardcore pick of the week: Long Island's **Pain of Truth** released their se
 - **Great Falls — "Debt Ethics" / *The Bite That Grows Up*** — Seattle heavy-noise outfit (featuring the Kowloon Walled City lineage) premiered **"Debt Ethics"** on Sept 23 (Lambgoat) from ***The Bite That Grows Up***, out **Oct 16**. Definitely on the noise/sludge radar.
 - **Fake Names — *Punk Ruins*** — supergroup with **Refused's Dennis Lyxzén**, Bad Religion's Brian Baker, and members of OFF! announce the album for **October**; lead single **"Until It's Normal"** is out now. One for the Refused/classic-punk lane.
 
-![Gurriers — Nobody's Coming to Save You](https://coverartarchive.org/release/27c2ad91-76c6-415b-a826-f46019eddfd9/45177071714-250.jpg)
+![Gurriers — Nobody's Coming to Save You](https://archive.org/services/img/27c2ad91-76c6-415b-a826-f46019eddfd9)
 
 ---
 

@@ -25,7 +25,7 @@ A **Monday** edition, and true to the calendar it's the quietest day of the week
 
 The headline for the post-punk lane this month. **Fontaines D.C.'s** fifth album, ***Dopamine Chamber*** (produced by **James Ford**), is confirmed for **Oct 16 via XL** (MusicBrainz first-release-date 2026-10-16) and is the week's defining release. Early reviews are already in circulation ahead of street date: **NME's** review this weekend framed it as "a doom-ridden escape from the band of the decade," and **Slant** published its review today (Oct 12). The singles — **"Tongue"** (shared Oct 7) and the earlier **"Marianne"** — have been building toward this. For your post-punk / art-punk rotation (alongside IDLES, Squid, Viagra Boys), this is the watch release of October. *Status:* **LP Oct 16 (XL); singles out now.** *Sources:* MusicBrainz / Cover Art Archive; NME (Oct 11); Slant (Oct 12); Rock Cellar (Oct 7).
 
-![Fontaines D.C. — Dopamine Chamber](https://coverartarchive.org/release/532d9b99-48a8-45af-8552-5f697fe5e8dd/45951664105-250.jpg)
+![Fontaines D.C. — Dopamine Chamber](https://archive.org/services/img/532d9b99-48a8-45af-8552-5f697fe5e8dd)
 
 ---
 

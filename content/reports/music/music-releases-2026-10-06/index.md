@@ -25,7 +25,7 @@ A Tuesday edition that catches the weekday drop and the fresh announcements made
 
 The day's freshest on-lane full-length, and the headliner for the **indie/folk-punk** stretch. Colorado's **Doom Scroll** release ***Exhausted Dialogue*** **today, October 6 via Flail Records** — an **eleven-track** set exploring the state of the world, war, curses, mental health and loss. Punknews premiered the record this morning with a vocalist/multi-instrumentalist **Elliot Lozier** track-by-track breakdown, running from the film-score-cued opener **"Awakening 2"** through songs like **"Panopticon"** and "Rapid Eyes." It's literate, wordy, genre-mutant folk-punk with a strong DIY lineage — squarely in the Jeff Rosenstock / Front Porch Step neighborhood of your list. *Status:* Out **today, Oct 6**. *Sources:* Punknews.org (Oct 6), MusicBrainz (2026-10-06).
 
-![Doom Scroll — Exhausted Dialogue](https://dn721807.ca.archive.org/0/items/mbid-bf55e960-f47f-4e67-bf4b-e8a2a31bd2aa/mbid-bf55e960-f47f-4e67-bf4b-e8a2a31bd2aa-46373247234.jpg)
+![Doom Scroll — Exhausted Dialogue](https://archive.org/services/img/bf55e960-f47f-4e67-bf4b-e8a2a31bd2aa)
 
 ---
 
@@ -33,7 +33,7 @@ The day's freshest on-lane full-length, and the headliner for the **indie/folk-p
 
 A tidy **Canadian indie-pop** flag for the coming Friday. **Carly Rae Jepsen** announced ***Day and Night (Continued)***, an eight-song B-sides companion to this year's double album *Day and Night*, arriving **October 9**. As she's done for almost every record, the first four tracks live in the *Day* universe and the latter four continue the *Night* realm — tracklist: "Reaching for a Star," "Sixteen and Rising," "Wedding Season," "Lullaby," "Yes," "Muscle Memory," "Love Depressed" and "In Pure Faith." Announced via Instagram and picked up by **Exclaim!** (Oct 5), **Clash**, **Rolling Stone** and **Pitchfork** the same day — a dependable, instantly-listenable listen for the wider Canadian/indie corner, even if it's pop rather than the heavier end of your list. *Status:* Out **Oct 9**. *Sources:* Exclaim! (Oct 5), Rolling Stone (Oct 5).
 
-![Carly Rae Jepsen — Day and Night (Continued)](https://dn721108.ca.archive.org/0/items/mbid-28923e24-f7a9-4d23-93a8-69162106a1fe/mbid-28923e24-f7a9-4d23-93a8-69162106a1fe-46085756744.jpg)
+![Carly Rae Jepsen — Day and Night (Continued)](https://archive.org/services/img/28923e24-f7a9-4d23-93a8-69162106a1fe)
 
 ---
 

@@ -49,7 +49,7 @@ best previews of its slow-motion-apocalypse mood. It's the flagship member of th
 noise-rock wing out this year. *Status:* Out now. *Sources:* The Flenser, Pitchfork, The Guardian,
 Paste, Exclaim!, Mother Jones, Louder Than War, Invisible Oranges (Aug 30 – Sept 26 2026).
 
-![Chat Pile — Who Loves the Sun](https://coverartarchive.org/release-group/c2e68749-0aef-4fdc-adae-c42050c64f6b/front-250)
+![Chat Pile — Who Loves the Sun](https://archive.org/services/img/c2e68749-0aef-4fdc-adae-c42050c64f6b)
 
 ---
 
@@ -85,7 +85,7 @@ Mullins) at what Gira calls "a particularly high note." An essential marker for 
 slow-burn, towering side of your post-rock / post-punk taste. *Status:* Out Oct 2.
 *Sources:* Tinnitist (label press release via Mute/Young God), MusicBrainz (2026-10-02).
 
-![Swans — Newly Sentient Being](https://coverartarchive.org/release/ecd23d2b-9688-4996-88a9-ad7af81e214d/46348354228-250.jpg)
+![Swans — Newly Sentient Being](https://archive.org/services/img/ecd23d2b-9688-4996-88a9-ad7af81e214d)
 
 ---
 
@@ -100,7 +100,7 @@ they've ever come up with." This is squarely your **noise-rock / art-punk** lane
 nearest the creative-ferocity end of the playlist. *Status:* Out Oct 2.
 *Sources:* Tinnitist (label press release), MusicBrainz (2026-10-02).
 
-![Deerhoof — Divine Schism](https://coverartarchive.org/release-group/1e4eb8fb-3c9e-4954-aead-f4376f662b09/front-250)
+![Deerhoof — Divine Schism](https://archive.org/services/img/1e4eb8fb-3c9e-4954-aead-f4376f662b09)
 
 ---
 
@@ -114,7 +114,7 @@ returns-to-form from a rapper already on your list. If the playlist's rap lane i
 these days, this is the record to add. *Status:* Out Aug 21 (recent). *Sources:* Pitchfork,
 Stereogum, Consequence, BrooklynVegan, treblezine (Aug 12–28 2026), MusicBrainz (2026-08-21).
 
-![Denzel Curry & Kenneth Blume — ii](https://coverartarchive.org/release-group/a4ea9974-cd74-429a-b961-bba9c46bd62f/front-250)
+![Denzel Curry & Kenneth Blume — ii](https://archive.org/services/img/a4ea9974-cd74-429a-b961-bba9c46bd62f)
 
 ---
 
@@ -133,7 +133,7 @@ Stereogum, Consequence, BrooklynVegan, treblezine (Aug 12–28 2026), MusicBrain
 - **DEADLETTER — *Existence Is Bliss*** (out Apr 22, noted for completeness): the London art-punk
   band's debut, already out this year if you haven't caught it.
 
-![Fat Dog — Cancel Me (I'm Tired)](https://coverartarchive.org/release-group/c8d3b8f4-cfe2-4ebc-b3a7-cadeb17fd2b9/front-250)
+![Fat Dog — Cancel Me (I'm Tired)](https://archive.org/services/img/c8d3b8f4-cfe2-4ebc-b3a7-cadeb17fd2b9)
 
 ---
 

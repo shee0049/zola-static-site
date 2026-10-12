@@ -47,7 +47,7 @@ genuine hardcore snarl, this is the one to spin this week. *Status:* Album out;
 new single out Sept 22. *Sources:* gbhbl, therazorsedge.rocks, Revolver, Chaoszine
 (Sept 2026).
 
-![Brat — Manslayer](https://coverartarchive.org/release/fb394447-e5c3-4fa1-9d93-73faa21f6a6c/45677716149-1200.jpg)
+![Brat — Manslayer](https://archive.org/services/img/fb394447-e5c3-4fa1-9d93-73faa21f6a6c)
 
 ---
 
@@ -63,7 +63,7 @@ detail (and now a Mannequin Pussy collab) pushes it further up the must-watch pi
 next to Chat Pile and Knocked Loose. *Status:* Announced — no date yet; guests now
 include Mannequin Pussy, MIKE, BbyMutha. *Source:* The Line of Best Fit (Sept 23 2026).
 
-![Soul Glo — NA I'M GON GRAB ALLAT](https://coverartarchive.org/release/61380fd2-8c48-467f-a10c-fbfd1daedfb9/46144087973-1200.jpg)
+![Soul Glo — NA I'M GON GRAB ALLAT](https://archive.org/services/img/61380fd2-8c48-467f-a10c-fbfd1daedfb9)
 
 ---
 
@@ -78,7 +78,7 @@ September into October. For the mathcore end of your Converge/Go It Alone intere
 this is a strong October marker. *Status:* Announced — out Oct 16, US tour Sept
 25–Oct 30. *Sources:* Punknews, BroadwayWorld, Lambgoat (Sept 2026).
 
-![The Number Twelve Looks Like You — Howls From The Holographic Heart](https://coverartarchive.org/release/8430694e-b8dd-4fb2-9cfa-c1bb82a713c5/45982741475-1200.jpg)
+![The Number Twelve Looks Like You — Howls From The Holographic Heart](https://archive.org/services/img/8430694e-b8dd-4fb2-9cfa-c1bb82a713c5)
 
 ---
 
