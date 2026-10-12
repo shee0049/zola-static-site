@@ -85,7 +85,7 @@ Mullins) at what Gira calls "a particularly high note." An essential marker for 
 slow-burn, towering side of your post-rock / post-punk taste. *Status:* Out Oct 2.
 *Sources:* Tinnitist (label press release via Mute/Young God), MusicBrainz (2026-10-02).
 
-![Swans — Newly Sentient Being](https://coverartarchive.org/release-group/c9f31be6-2c0f-4fda-9e7f-ef96d753fee9/front-250)
+![Swans — Newly Sentient Being](https://coverartarchive.org/release/ecd23d2b-9688-4996-88a9-ad7af81e214d/46348354228-250.jpg)
 
 ---
 

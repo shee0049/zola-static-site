@@ -52,7 +52,7 @@ The hardcore pick of the week: Long Island's **Pain of Truth** released their se
 - **Great Falls — "Debt Ethics" / *The Bite That Grows Up*** — Seattle heavy-noise outfit (featuring the Kowloon Walled City lineage) premiered **"Debt Ethics"** on Sept 23 (Lambgoat) from ***The Bite That Grows Up***, out **Oct 16**. Definitely on the noise/sludge radar.
 - **Fake Names — *Punk Ruins*** — supergroup with **Refused's Dennis Lyxzén**, Bad Religion's Brian Baker, and members of OFF! announce the album for **October**; lead single **"Until It's Normal"** is out now. One for the Refused/classic-punk lane.
 
-![Gurriers — Nobody's Coming to Save You](https://coverartarchive.org/release-group/668ea253-7783-4844-93ff-516a21808115/front-250)
+![Gurriers — Nobody's Coming to Save You](https://coverartarchive.org/release/27c2ad91-76c6-415b-a826-f46019eddfd9/45177071714-250.jpg)
 
 ---
 
